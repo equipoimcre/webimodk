@@ -20,7 +20,7 @@ De forma más concreta, los objetivos de esta unidad son:
 
 - Exportar el formulario y ponerlo a disposición del resto de aplicaciones ODK.
 
-Recuerda: aunque Build presenta limitaciones respecto al diseño de los formularios a través de Excel, es una herramienta muy efectiva para el diseño de formularios sencillos y, sobre todo, para todas las personas que se estén iniciando en el mundo de ODK. 
+.. Attention:: Aunque Build presenta limitaciones respecto al diseño de los formularios a través de Excel, es una herramienta muy efectiva para el diseño de formularios sencillos y, sobre todo, para todas las personas que se estén iniciando en el mundo de ODK. 
 
 
 Comocimientos previos y recursos
@@ -28,7 +28,7 @@ Comocimientos previos y recursos
 
 Esta unidad requiere haber completado las unidades anteriores, es decir, conocer de forma básica qué es Open Data Kit y cómo funciona la aplicación Collect, tanto a nivel de configuración como de gestión y cumplimentación de formularios. Asimismo es necesario tener conocimientos básicos sobre la navegación y funcionamiento de aplicaciones web.  
 
-Recuerda: además de Build y Collect, la otra gran pieza de ODK es Aggregate, el servidor al que nos conectaremos para descargar los formularios en blanco y almacenar los ya completados. 
+.. Attention:: Además de Build y Collect, la otra gran pieza de ODK es Aggregate, el servidor al que nos conectaremos para descargar los formularios en blanco y almacenar los ya completados. 
 
 
 
