@@ -18,5 +18,8 @@ Contenidos:
    :maxdepth: 2
    :glob:
 
-   *
+   introduccion
+   collect
+   build
+   
 * :ref:`search`
