@@ -82,7 +82,7 @@ A continuación vamos a realizar paso a paso la instalación de la aplicación O
 
 Una vez en nuestro dispositivo vamos a Playstore donde se pueden buscar e instalar las aplicaciones para nuestro Smartphone.
 
-.. figure:: googleplay.jpg 			  
+.. figure:: googleplay.JPG 			  
 
 .. Attention:: Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
 
