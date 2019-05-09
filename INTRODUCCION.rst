@@ -64,7 +64,7 @@ Comunicación entre herramientas
 
 Mientras que Build se comunica de forma unidireccional con Aggregate para enviarle los formularios en blanco, en cambio, la comunicación entre Collect y Aggregate es bidireccional: collect obtiene los formularios en blanco del servidor y los envía una vez se hayan rellenado.
 
-.. image:: template/comunicacion.jpg
+.. image:: template/dosc/comunicacion.jpg
 
 Instalación de la aplicación ODK collect
 ----------------------------------------
