@@ -1,8 +1,8 @@
-.. |BUILD| image:: docs/build.jpg
+.. |BUILD| image:: docs/build.png
    :width: 1em
-.. |COLLECT| image:: docs/collect.jpg
+.. |COLLECT| image:: docs/collect.png
    :width: 1em
-.. |AGGREGATE| image:: docs/aggregate.jpg
+.. |AGGREGATE| image:: docs/aggregate.png
    :width: 1em
 
 Introducción
@@ -71,7 +71,7 @@ Comunicación entre herramientas
 
 Mientras que Build se comunica de forma unidireccional con Aggregate para enviarle los formularios en blanco, en cambio, la comunicación entre Collect y Aggregate es bidireccional: collect obtiene los formularios en blanco del servidor y los envía una vez se hayan rellenado.
 
-.. image:: docs/comunicacion.jpg
+.. image:: 'docs/comunicacion.jpg'
 
 Instalación de la aplicación ODK collect
 ----------------------------------------
