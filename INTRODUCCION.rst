@@ -60,9 +60,9 @@ Herramientas más utilizadas
 
 Las herramientas más utilizadas son:
 
-- |BUILD| Build: para crear un formulario de recopilación de datos o una encuesta.
-- |COLLECT| Collect: permite reunir datos en un dispositivo móvil y enviarla a un servidor.
-- |AGGREGATE| Aggregate: agrega los datos recogidos en un servidor y permite extraerlos en formatos útiles.
+|BUILD| Build: para crear un formulario de recopilación de datos o una encuesta.
+Collect: permite reunir datos en un dispositivo móvil y enviarla a un servidor. |COLLECT|
+|AGGREGATE| Aggregate: agrega los datos recogidos en un servidor y permite extraerlos en formatos útiles.
 
 .. Attention::  Google Drive, el espacio de almacenamiento de Google en la nube, puede ser utilizado también como “servidor”, para obtener los formularios y recopilar la información. Es una opción más sencilla de implementar que Aggregate y, por eso, será abordada en primer lugar.
 
