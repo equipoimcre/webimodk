@@ -61,11 +61,9 @@ Herramientas más utilizadas
 
 Las herramientas más utilizadas son:
 
-|BUILD| Build: para crear un formulario de recopilación de datos o una encuesta.
-
-Collect: permite reunir datos en un dispositivo móvil y enviarla a un servidor. |COLLECT|
-
-|AGGREGATE| Aggregate: agrega los datos recogidos en un servidor y permite extraerlos en formatos útiles.
+* |BUILD| Build: para crear un formulario de recopilación de datos o una encuesta.
+* |COLLECT| Collect: permite reunir datos en un dispositivo móvil y enviarla a un servidor.
+* |AGGREGATE| Aggregate: agrega los datos recogidos en un servidor y permite extraerlos en formatos útiles.
 
 .. admonition:: ¿Sabías que? 
 
@@ -165,7 +163,9 @@ En esta pantalla se nos solicita tomar una foto del ave que estamos observando.
 
 Es posible añadir imágenes a nuestra encuesta ya sea tomando una foto con la cámara o escoger cualquier imagen ya disponible en la memoria del dispositivo. Pasa a la siguiente pantalla deslizando el dedo hacia la izquierda.
 
-.. Attention:: Si te fijas en la parte superior izquierda “observation(1)” quiere decir que las preguntas bajo esa denominación forman un grupo y que puede repetirse siendo “1” el número de orden que le corresponde. Por tanto, las informaciones de todos los grupos de este formulario tienen en común la identificación del observador y la situación meteorológica.
+.. admonition:: Presta atención
+
+   Si te fijas en la parte superior izquierda “observation(1)” quiere decir que las preguntas bajo esa denominación forman un grupo y que puede repetirse siendo “1” el número de orden que le corresponde. Por tanto, las informaciones de todos los grupos de este formulario tienen en común la identificación del observador y la situación meteorológica.
 
 En esta pantalla se nos solicita identificar el ave observada entre una lista predeterminada.
 
@@ -187,14 +187,18 @@ guardar y veremos nuestras coordenadas geográficas en el formulario.
 .. figure:: /media/collect_map.jpg
    :align: center 
    
-.. Attention:: Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
+.. admonition:: Debes conocer
+
+   Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
 
 Finalmente, en esta pantalla se ofrece la posibilidad de añadir algún comentario adicional. Añádelo si quieres y pasa a la siguiente pantalla.
 
 .. figure:: /media/collect_add_comments.jpg
    :align: center 
 
-.. Attention:: En el formulario que estamos recorriendo puedes dejar sin contestar las preguntas. Sin embargo, es posible obligar al usuario a dar respuesta a las preguntas para seguir adelante con la encuesta e incluso validar sobre la marcha la coherencia de las respuestas.
+.. admonition:: Presta atención
+
+   En el formulario que estamos recorriendo puedes dejar sin contestar las preguntas. Sin embargo, es posible obligar al usuario a dar respuesta a las preguntas para seguir adelante con la encuesta e incluso validar sobre la marcha la coherencia de las respuestas.
 
 En este momento, la aplicación pregunta si quieres añadir un nuevo grupo. Si eliges “Agregar Grupo” volverás a la pantalla en la que se tomaba la foto y que debe estar encabezada ahora por el rótulo “observation(2)”. Completa las diferentes pantallas de este segundo grupo.
 
@@ -231,7 +235,9 @@ En la pantalla principal podemos ver que ya tenemos un formulario en la sección
 .. figure:: /media/collect_send_form_results2.jpg
    :align: center
 
-.. Attention:: Ahora que ya has practicado con un formulario, repite lo descrito en los apartados anteriores con alguno de los otros que se encontraban en el servidor de pruebas.
+.. admonition:: Recomendación
+
+   Ahora que ya has practicado con un formulario, repite lo descrito en los apartados anteriores con alguno de los otros que se encontraban en el servidor de pruebas.
 
 Resumen y próximos pasos
 ------------------------
