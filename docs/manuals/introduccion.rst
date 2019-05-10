@@ -116,6 +116,91 @@ Inicialmente odk collect está configurado para el acceso a un servidor de prueb
 Obtención de un formulario en blanco
 ------------------------------------
 
+Ahora estamos en disposición de descargar un formulario en blanco de entre aquellos que están en el servidor de pruebas. En la pantalla principal pulsa en “obtener formulario en blanco”.
+
+La aplicación valida en este momento que el servidor, usuario y contraseñas introducidos anteriormente son correctos y ofrece una lista de los formularios disponibles. Selecciona “Birds” y pulsa en “obtener los seleccionados”.
+
+Se trata de un breve pero completo formulario relativo a la observación de aves. Aunque se encuentra en inglés nos puede dar una idea del tipo de información que se puede recopilar y de la potencialidad de esta herramienta.
+
+Una vez descargado el formulario debes pulsar “de acuerdo”.
+
+.. figure:: /media/collect_blank_form.jpg
+   :align: center
+   
+Introducción de información en un formulario
+--------------------------------------------
+
+Volvemos a la pantalla principal y entramos en “llenar nuevo formulario”. Seleccionamos el formulario que nos acabamos de descargar y entramos ya a las diferentes preguntas del mismo.
+
+.. figure:: /media/collect_added_form.jpg
+   :align: center
+
+En esta primera pantalla se solicita información sobre la persona que realiza las observaciones: en primer lugar el nombre y después el país. Se trata de información textual.
+
+.. figure:: /media/collect_add_text.jpg
+   :align: center
+
+Las diferentes pantallas se pasan deslizando el dedo sobre la misma ya sea hacia adelante (izquierda) o hacia atrás (derecha). Completa las preguntas y desliza la pantalla hacia la izquierda para proseguir con el formulario.
+
+En esta segunda pantalla se recoge información relacionada con las condiciones meteorológicas en el momento de las observaciones.
+En primer lugar podemos completar información de tipo numérico en el caso de la temperatura. Posteriormente podemos seleccionar las
+condiciones de humedad y viento entre las que más se ajusten de las listas que se ofrecen.
+
+.. figure:: /media/collect_add_number_options.jpg
+   :align: center
+
+Desliza de nuevo la pantalla hacia la izquierda para acceder a la siguiente pantalla. Observa que ya puedes retroceder a la primera pantalla deslizando el dedo hacia la derecha.
+
+En esta pantalla se nos solicita tomar una foto del ave que estamos observando.
+
+.. figure:: /media/collect_photo.jpg
+   :align: center
+
+Es posible añadir imágenes a nuestra encuesta ya sea tomando una foto con la cámara o escoger cualquier imagen ya disponible en la memoria del dispositivo. Pasa a la siguiente pantalla deslizando el dedo hacia la izquierda.
+
+.. Attention:: Si te fijas en la parte superior izquierda “observation(1)” quiere decir que las preguntas bajo esa denominación forman un grupo y que puede repetirse siendo “1” el número de orden que le corresponde. Por tanto, las informaciones de todos los grupos de este formulario tienen en común la identificación del observador y la situación meteorológica.
+
+En esta pantalla se nos solicita identificar el ave observada entre una lista predeterminada.
+
+.. figure:: /media/collect_select_list.jpg
+   :align: center
+
+Además de la pregunta en negrita se ofrece un texto en cursiva en el que se incluyen aclaraciones para el usuario. Como podrás ver, los nombres de las diferentes aves se acompañan de imágenes de las mismas para facilitar la identificación. Asimismo se incorporan botones que permiten reproducir vídeos o audios, recursos variados que pueden ayudarnos a elegir la opción correctamente. Prueba los diferentes recursos, selecciona una de las opciones y desliza la pantalla para acceder a la siguiente pregunta.
+
+A través de esta pantalla es posible incluir las coordenadas de tu ubicación permitiendo localizar el lugar exacto de las observaciones.
+
+.. figure:: /media/collect_gps.jpg
+   :align: center
+
+Para ello es necesario tener el gps de nuestro dispositivo activado y esperar a que determine nuestra posición, que señalará sobre el mapa.
+
+También es posible seleccionar nuestra posición de forma manual marcando un punto sobre el mapa. Una vez realizado le damos a la opción
+guardar y veremos nuestras coordenadas geográficas en el formulario.
+
+.. figure:: /media/collect_map.jpg
+   :align: center 
+   
+.. Attention:: Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
+
+Finalmente, en esta pantalla se ofrece la posibilidad de añadir algún comentario adicional. Añádelo si quieres y pasa a la siguiente pantalla.
+
+.. figure:: /media/collect_add_comments.jpg
+   :align: center 
+
+.. Attention:: En el formulario que estamos recorriendo puedes dejar sin contestar las preguntas. Sin embargo, es posible obligar al usuario a dar respuesta a las preguntas para seguir adelante con la encuesta e incluso validar sobre la marcha la coherencia de las respuestas.
+
+En este momento, la aplicación pregunta si quieres añadir un nuevo grupo. Si eliges “Agregar Grupo” volverás a la pantalla en la que se tomaba la foto y que debe estar encabezada ahora por el rótulo “observation(2)”. Completa las diferentes pantallas de este segundo grupo.
+
+.. figure:: /media/collect_add_group.jpg
+   :align: center
+   
+Al finalizar este segundo grupo, selecciona “No agregar” para pasar a la pantalla final del formulario. Selecciona “Guardar Formulario y Salir” para terminar la encuesta y volver a la pantalla principal de la aplicación.
+
+.. figure:: /media/collect_form_save_exit.jpg
+   :align: center
+   
+Envío de la información al servidor
+-----------------------------------
 
 
 ......
