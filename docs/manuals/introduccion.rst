@@ -84,7 +84,9 @@ Una vez en nuestro dispositivo vamos a Playstore donde se pueden buscar e instal
 
 .. figure:: /media/googleplay.jpg 			  
 
-.. Attention:: Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
+.. admonition::
+   :class: Aviso
+   :name: Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
 
 
 Utilizando el cuadro superior de búsqueda, escribimos el nombre de la aplicación a instalar: ODK collect. Observaremos que según escribimos el nombre nos va sugiriendo resultados entre los que se encuentra el nombre de nuestra aplicación. Una vez localizada la aplicación, le damos a “instalar”.
