@@ -202,6 +202,33 @@ Al finalizar este segundo grupo, selecciona “No agregar” para pasar a la pan
 Envío de la información al servidor
 -----------------------------------
 
+La información está ahora almacenada en nuestro Smartphone. Es el momento de enviarla al servidor que reúne las encuestas que se hayan realizado desde diferentes dispositivos. 
 
-......
+Volvemos a la pantalla principal de la aplicación odk collect. En ella podemos ver que tenemos la posibilidad de enviar o editar el formulario que acabamos de rellenar. Le damos a “enviar formulario finalizado”.
 
+.. figure:: /media/collect_send_form.jpg
+   :align: center
+
+En la siguiente pantalla seleccionamos el formulario y le damos a “enviar seleccionados”. 
+
+.. figure:: /media/collect_send_form2.jpg
+   :align: center
+
+La aplicación nos informa del resultado del proceso de carga de nuestros datos en el servidor.
+
+.. figure:: /media/collect_send_form_results.jpg
+   :align: center
+
+En la pantalla principal podemos ver que ya tenemos un formulario en la sección de enviados.
+
+.. figure:: /media/collect_send_form_results2.jpg
+   :align: center
+
+.. Attention:: Ahora que ya has practicado con un formulario, repite lo descrito en los apartados anteriores con alguno de los otros que se encontraban en el servidor de pruebas.
+
+Resumen y próximos pasos
+------------------------
+
+En esta primera unidad hemos visto los aspectos más esenciales de Open Data Kit: en qué consiste, las diferentes herramientas que lo componen y sus relaciones. Asimismo hemos tenido una primera toma de contacto con la herramienta central “odk collect”, instalando la aplicación en nuestro dispositivo y comprobando sus enormes potencialidades con un formulario de muestra.
+
+Las siguientes unidades entrarán en detalle en las diferentes herramientas que se han enumerado de forma que seamos capaces de abarcar todo el proceso de recopilación y explotación de la información.
