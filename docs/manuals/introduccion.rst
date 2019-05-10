@@ -88,8 +88,34 @@ Una vez en nuestro dispositivo vamos a Playstore donde se pueden buscar e instal
 
 .. Attention:: Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
 
-
 Utilizando el cuadro superior de búsqueda, escribimos el nombre de la aplicación a instalar: ODK collect. Observaremos que según escribimos el nombre nos va sugiriendo resultados entre los que se encuentra el nombre de nuestra aplicación. Una vez localizada la aplicación, le damos a “instalar”.
+
+.. figure:: /media/googleplay_collect.jpg
+   :align: center
+
+.. Attention:: Recomendación: cuando instales aplicaciones en tu dispositivo móvil conéctate a una red wifi para evitar un consumo innecesario de nuestra tarifa de datos.
+
+Durante el proceso de instalación debemos aceptar que la aplicación acceda a determinados contenidos y herramientas del Smartphone. Finalmente nos ofrecerá la posibilidad de abrir la aplicación que ya está disponible en nuestro dispositivo.
+
+.. figure:: /media/googleplay_collect2.jpg
+   :align: center
+
+Configuración de ODK collect
+----------------------------
+
+A continuación, utilizando el acceso creado en nuestra pantalla, entramos en la aplicación odk collect y vemos su pantalla principal. Lo primero que vamos a hacer es comprobar la configuración de la aplicación. Pulsa sobre el botón superior derecho y selecciona “cambiar la configuración”. A continuación selecciona “Server”.
+
+.. figure:: /media/collect_conf.jpg
+   :align: center
+
+Inicialmente odk collect está configurado para el acceso a un servidor de prueba de tipo “ODK Aggregate”: https://opendatakit.appspot.com, al que es posible el acceso de forma anónima, es decir, no hace falta ni usuario ni contraseña. Deja la configuración tal como está y pulsa el botón “atrás” de tu Smartphone hasta volver a la pantalla inicial de la aplicación.
+
+.. figure:: /media/collect_default_conf.jpg
+   :align: center
+
+Obtención de un formulario en blanco
+------------------------------------
+
 
 
 ......
