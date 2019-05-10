@@ -41,10 +41,4 @@ Antes de empezar a entender cómo funciona la herramienta, necesitamos entender 
 
 En un formulario o encuesta, vamos a realizar una serie de preguntas. Cada una de estas preguntas tendrá diferentes tipos de respuesta, es decir, a una determinada pregunta y según cómo esté descrita, la persona que grabe las respuestas tendrá que hacerlo con un texto, con un número, con una fecha, una fotografía, etc. El formato en el que queremos que nos respondan, es el tipo de dato.
 
-Antes de empezar a entender cómo funciona la herramienta, necesitamos entender los tipos de datos que vamos a poder elegir en los formularios.
-
-¿Qué quiere decir esto?
-
-En un formulario o encuesta, vamos a realizar una serie de preguntas. Cada una de estas preguntas tendrá diferentes tipos de respuesta, es decir, a una determinada pregunta y según cómo esté descrita, la persona que grabe las respuestas tendrá que hacerlo con un texto, con un número, con una fecha, una fotografía, etc. El formato en el que queremos que nos respondan, es el tipo de dato.
-
-A continuación se muestra una tabla con los tipos de datos que nos vamos a encontrar, su descripción, y un ejemplo de pregunta cuya respuesta sería ese tipo de dato:
+Antes de empezar a entender cómo funciona la herramienta, necesitamos entender los tipos de datos que vamos a poder elegir en los formularios. A continuación se muestra una tabla con los tipos de datos que nos vamos a encontrar, su descripción, y un ejemplo de pregunta cuya respuesta sería ese tipo de dato:
