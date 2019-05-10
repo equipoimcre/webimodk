@@ -11,6 +11,6 @@ Conocimientos previos y recursos
 
 Esta unidad requiere haber completado las unidades anteriores, es decir, conocer de forma básica qué es Open Data Kit, cómo funciona la aplicación Collect y cómo se diseñan los formularios con Build. Asimismo es necesario tener una cuenta de Google y configurarla en un dispositivo Android 1.6 o superior.
 
-La fuente original para la elaboración de estos contenidos es 'ODK Collect and Google Drive Integration to Store and Manage Your Data" <https://www.google.com/earth/outreach/learn/odk-collect-and-google-drive-integration-to-store-and-manage-your-data/>'_.
+La fuente original para la elaboración de estos contenidos es 'ODK Collect and Google Drive Integration to Store and Manage Your Data <https://www.google.com/earth/outreach/learn/odk-collect-and-google-drive-integration-to-store-and-manage-your-data/>'.
 
 ..............
