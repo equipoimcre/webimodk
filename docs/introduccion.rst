@@ -2,7 +2,7 @@
    :width: 50 px
 .. |COLLECT| image:: collect.png
    :width: 50 px
-.. |AGGREGATE| image:: aggregate.png
+.. |AGGREGATE| image:: webimodk/docs/media/aggregate.png
    :width: 50 px
 
 Introducción
