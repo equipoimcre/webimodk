@@ -6,6 +6,8 @@
 Inicio
 ======
 
+¡Bienvenid@ a la página web de Open Data Kit de Cruz Roja Española!.
+
 Open Data Kit es una herramienta instalable en dispositivos móviles para la recolección de datos en el terreno ampliamente usada por Cruz Roja Española en el campo de la cooperación internacional tanto en operaciones de emergencia como de desarrollo.
 
 Esta web trata de reunir materiales para el autoaprendizaje de Open Data Kit de forma que individualmente, cada persona a su ritmo, pueda conocer en qué consisten estas herramientas, introducirse en su uso y progresar hasta el desarrollo de proyectos propios de recolección de información en el ámbito de la cooperación internacional.
