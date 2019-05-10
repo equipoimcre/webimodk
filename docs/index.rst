@@ -15,11 +15,17 @@ Los diferentes materiales han sido clasificados siguiendo una doble intención: 
 Contenidos:
 
 .. toctree::
+   :caption: Autoaprendizaje
    :maxdepth: 2
    :glob:
 
    introduccion
    collect
    build
+   
+.. toctree::
+   :caption: Otra sección
+   
+   nuevapagina
    
 * :ref:`search`
