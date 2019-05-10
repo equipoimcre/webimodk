@@ -17,9 +17,9 @@ Contenidos:
 .. toctree::
    :caption: Autoaprendizaje
 
-   introduccion
+   manuals/introduccion
    manuals/collect
-   build
+   manuals/build
    
 .. toctree::
    :caption: Otra sección
