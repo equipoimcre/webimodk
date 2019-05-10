@@ -67,7 +67,9 @@ Collect: permite reunir datos en un dispositivo móvil y enviarla a un servidor.
 
 |AGGREGATE| Aggregate: agrega los datos recogidos en un servidor y permite extraerlos en formatos útiles.
 
-.. Attention::  Google Drive, el espacio de almacenamiento de Google en la nube, puede ser utilizado también como “servidor”, para obtener los formularios y recopilar la información. Es una opción más sencilla de implementar que Aggregate y, por eso, será abordada en primer lugar.
+.. admonition:: ¿Sabías que? 
+
+   Google Drive, el espacio de almacenamiento de Google en la nube, puede ser utilizado también como “servidor”, para obtener los formularios y recopilar la información. Es una opción más sencilla de implementar que Aggregate y, por eso, será abordada en primer lugar.
 
 Comunicación entre herramientas
 -------------------------------
@@ -87,14 +89,18 @@ Una vez en nuestro dispositivo vamos a “Play Store” donde se pueden buscar e
 .. figure:: /media/googleplay.jpg
    :align: center
 
-.. Attention:: Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
+.. admonition:: Debes conocer
+
+   Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
 
 Utilizando el cuadro superior de búsqueda, escribimos el nombre de la aplicación a instalar: ODK collect. Observaremos que según escribimos el nombre nos va sugiriendo resultados entre los que se encuentra el nombre de nuestra aplicación. Una vez localizada la aplicación, le damos a “instalar”.
 
 .. figure:: /media/googleplay_collect.jpg
    :align: center
 
-.. Attention:: Recomendación: cuando instales aplicaciones en tu dispositivo móvil conéctate a una red wifi para evitar un consumo innecesario de nuestra tarifa de datos.
+.. admonition:: Recomendación 
+
+   Cuando instales aplicaciones en tu dispositivo móvil conéctate a una red wifi para evitar un consumo innecesario de nuestra tarifa de datos.
 
 Durante el proceso de instalación debemos aceptar que la aplicación acceda a determinados contenidos y herramientas del Smartphone. Finalmente nos ofrecerá la posibilidad de abrir la aplicación que ya está disponible en nuestro dispositivo.
 
