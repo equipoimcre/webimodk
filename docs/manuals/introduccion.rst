@@ -32,9 +32,9 @@ Esta unidad requiere un conocimiento a nivel de usuario del sistema operativo An
 
 Como recursos adicionales hay que destacar el abundante y extenso material que puede encontrarse en Internet, que puede utilizarse para resolver dudas y ampliar conocimientos, destacando las siguientes páginas:
 
-- Open Data Kit: https://opendatakit.org/
+- `Open Data Kit <https://opendatakit.org/>´.
 
-- Foro ODK: https://forum.opendatakit.org/
+- `Foro ODK <https://forum.opendatakit.org/>´.
 
 .. Attention:: ODK está en continuo proceso de desarrollo y mejora. Regístrate en el foro de ODK para estar al tanto de todas las novedades y poder interactuar con la comunidad de usuarios.
 
