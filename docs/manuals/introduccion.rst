@@ -81,7 +81,7 @@ Instalación de la aplicación ODK collect
 
 A continuación vamos a realizar paso a paso la instalación de la aplicación ODK collect en nuestro Smartphone. 
 
-Una vez en nuestro dispositivo vamos a Playstore donde se pueden buscar e instalar las aplicaciones para nuestro Smartphone.
+Una vez en nuestro dispositivo vamos a “Play Store” donde se pueden buscar e instalar las aplicaciones para nuestro Smartphone.
 
 .. figure:: /media/googleplay.jpg
    :align: center
