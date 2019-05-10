@@ -35,7 +35,9 @@ Como recursos adicionales hay que destacar el abundante y extenso material que p
 - `Open Data Kit <https://opendatakit.org/>`__.
 - `Foro ODK <https://forum.opendatakit.org/>`__.
 
-.. Attention:: ODK está en continuo proceso de desarrollo y mejora. Regístrate en el foro de ODK para estar al tanto de todas las novedades y poder interactuar con la comunidad de usuarios.
+.. admonition:: Recomendación
+
+   ODK está en continuo proceso de desarrollo y mejora. Regístrate en el foro de ODK para estar al tanto de todas las novedades y poder interactuar con la comunidad de usuarios.
 
 ¿Qué es ODK?
 ------------
