@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-¡Bienvenido a la página de ODK de Cruz Roja Española!
-=====================================================
+Inicio
+======
 
 Open Data Kit es una herramienta instalable en dispositivos móviles para la recolección de datos en el terreno ampliamente usada por Cruz Roja Española en el campo de la cooperación internacional tanto en operaciones de emergencia como de desarrollo.
 
