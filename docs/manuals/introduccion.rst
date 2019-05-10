@@ -1,4 +1,4 @@
-.. |BUILD| image:: /docs/media/build.png
+.. |BUILD| image:: ..docs/media/build.png
    :width: 50 px
 .. |COLLECT| image:: /docs/media/collect.png
    :width: 50 px
