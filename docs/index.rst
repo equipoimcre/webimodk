@@ -18,7 +18,7 @@ Contenidos:
    :caption: Autoaprendizaje
 
    introduccion
-   collect
+   manuals/collect
    build
    
 .. toctree::
