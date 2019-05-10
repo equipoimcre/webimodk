@@ -1,8 +1,8 @@
 .. |BUILD| image:: /media/build.png
    :width: 50 px
-.. |COLLECT| image:: /docs/media/collect.png
+.. |COLLECT| image:: /media/collect.png
    :width: 50 px
-.. |AGGREGATE| image:: /docs/media/aggregate.png
+.. |AGGREGATE| image:: /media/aggregate.png
    :width: 50 px
 
 Introducción
@@ -73,7 +73,7 @@ Comunicación entre herramientas
 
 Mientras que Build se comunica de forma unidireccional con Aggregate para enviarle los formularios en blanco, en cambio, la comunicación entre Collect y Aggregate es bidireccional: collect obtiene los formularios en blanco del servidor y los envía una vez se hayan rellenado.
 
-.. figure:: /docs/media/comunicacion.jpg
+.. figure:: /media/comunicacion.jpg
 
 Instalación de la aplicación ODK collect
 ----------------------------------------
@@ -82,7 +82,7 @@ A continuación vamos a realizar paso a paso la instalación de la aplicación O
 
 Una vez en nuestro dispositivo vamos a Playstore donde se pueden buscar e instalar las aplicaciones para nuestro Smartphone.
 
-.. figure:: /docs/media/googleplay.jpg 			  
+.. figure:: /media/googleplay.jpg 			  
 
 .. Attention:: Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
 
