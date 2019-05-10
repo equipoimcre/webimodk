@@ -18,14 +18,12 @@ Contenidos:
    :caption: Autoaprendizaje
    :maxdepth: 2
    :glob:
-
    introduccion
    collect
    build
    
 .. toctree::
    :caption: Otra sección
-   
-   nuevapagina
+   case_studies/nuevapagina
    
 * :ref:`search`
