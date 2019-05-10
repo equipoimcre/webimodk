@@ -20,6 +20,7 @@ Contenidos:
    manuals/introduccion
    manuals/collect
    manuals/build
+   manuals/googledrive
    
 .. toctree::
    :caption: Otra sección
