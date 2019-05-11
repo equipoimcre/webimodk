@@ -83,12 +83,12 @@ Durante el proceso de instalación debemos aceptar que la aplicación acceda a d
 Configuración de ODK Collect
 ----------------------------
 
-A continuación, utilizando el acceso creado en nuestra pantalla, entramos en la aplicación Collect y vemos su pantalla principal. Lo primero que vamos a hacer es comprobar la configuración de la aplicación. Pulsa sobre el botón superior derecho y selecciona “Cambiar la configuración”. A continuación selecciona “Servidor - Usuario”.
+A continuación, utilizando el acceso creado en nuestra pantalla, entramos en la aplicación Collect y vemos su pantalla principal. Lo primero que vamos a hacer es comprobar la configuración de la aplicación. Pulsa sobre el botón superior derecho (1) y selecciona “Cambiar la configuración” (2). A continuación selecciona “Servidor - Usuario” (3).
 
 .. figure:: /media/collect_conf.jpg
    :align: center
 
-Inicialmente Collect está configurado para el acceso a un servidor de prueba de tipo “ODK Aggregate” cuya dirección URL es https://opendatakit.appspot.com y al que es posible el acceso de forma anónima, es decir, no hace falta ni usuario ni contraseña. Deja la configuración tal como está y pulsa el botón “atrás” de tu Smartphone hasta volver a la pantalla inicial de la aplicación.
+Inicialmente Collect está configurado para el acceso a un **servidor de prueba** de tipo “ODK Aggregate” cuya dirección URL es https://opendatakit.appspot.com y al que es posible el acceso de forma anónima, es decir, no hace falta ni usuario ni contraseña. Deja la configuración tal como está y pulsa el botón “atrás” de tu Smartphone hasta volver a la pantalla inicial de la aplicación.
 
 .. figure:: /media/collect_default_conf.jpg
    :align: center
@@ -96,13 +96,13 @@ Inicialmente Collect está configurado para el acceso a un servidor de prueba de
 Obtención de un formulario en blanco
 ------------------------------------
 
-Ahora estamos en disposición de descargar un formulario en blanco de entre aquellos que están en el servidor de pruebas. En la pantalla principal pulsa en “obtener formulario en blanco”.
+Ahora estamos en disposición de descargar un formulario en blanco de entre aquellos que están en el servidor de pruebas. En la pantalla principal pulsa en “obtener formulario en blanco” (1).
 
-La aplicación valida en este momento que el servidor, usuario y contraseñas introducidos anteriormente son correctos y ofrece una lista de los formularios disponibles. Selecciona “Birds” y pulsa en “obtener los seleccionados”.
+La aplicación valida en este momento que el servidor, usuario y contraseñas introducidos anteriormente son correctos y ofrece una lista de los formularios disponibles. Selecciona “All widgets” (2) y pulsa en “obtener los seleccionados” (3).
 
-Se trata de un breve pero completo formulario relativo a la observación de aves. Aunque se encuentra en inglés nos puede dar una idea del tipo de información que se puede recopilar y de la potencialidad de esta herramienta.
+Se trata de un formulario demostrativo de los diferentes tipos de preguntas disponibles en ODK. Aunque se encuentra en inglés nos puede dar una primera idea del tipo de información que se puede recopilar y de la potencialidad de esta herramienta.
 
-Una vez descargado el formulario debes pulsar “de acuerdo”.
+Una vez descargado el formulario debes pulsar “de acuerdo” (4).
 
 .. figure:: /media/collect_blank_form.jpg
    :align: center
