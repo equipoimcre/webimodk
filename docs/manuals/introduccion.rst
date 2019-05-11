@@ -17,11 +17,11 @@ Introducción
    
 La recolección de datos sobre el terreno es una tarea fundamental dentro de la acción humanitaria ya sea cuando se interviene en una emergencia o en un proyecto de desarrollo.
 
-Tradicionalmente este trabajo se ha realizado rellenando a mano las encuestas y  tabulándolas posteriormente. Esta técnica es poco eficiente y son muy numerosas las posibles fuentes de error desde el momento de recoger la información hasta la publicación de los resultados.
+Tradicionalmente este trabajo se ha realizado rellenando a mano las encuestas y  tabulándolas posteriormente. Esta técnica es poco eficiente y son numerosas las posibles fuentes de error desde el momento de recoger la información hasta la publicación de los resultados.
 
-Open Data Kit (ODK) es un conjunto de herramientas informáticas de código libre que permiten sistematizar algunas de las tareas que intervienen en todo este proceso facilitando la creación e implementación de las encuestas a través de dispositivos móviles y el procesamiento de las mismas, sustituyendo el uso del papel, ahorrándonos horas de transcripción y, lo más importante, disminuyendo en buena medida posibles errores. Todo esto contribuye a obtener la información necesaria en un tiempo menor y dar una respuesta más rápida y eficaz.
+Open Data Kit (ODK) es un conjunto de herramientas informáticas de **código libre** que permiten sistematizar algunas de las tareas que intervienen en todo este proceso facilitando la creación e implementación de las encuestas a través de dispositivos móviles y el procesamiento de las mismas, sustituyendo el uso del papel, ahorrándonos horas de transcripción y, lo más importante, disminuyendo en buena medida posibles errores. Todo esto contribuye a obtener la información necesaria en un tiempo menor y dar una respuesta más rápida y eficaz.
 
-ODK comenzó como un proyecto de Google.org, en abril de 2008 y los desarrolladores principales son investigadores del Departamento de Ciencias Computacionales e Ingeniería de la Universidad de Washington. En la actualidad está formada por una extensa comunidad de usuarios y desarrolladores que contribuyen en el proceso de crecimiento y mejora de esta herramienta. `Open Data Kit <https://opendatakit.org/>`__ y el `Foro ODK <https://forum.opendatakit.org/>`__ permiten estar al tanto de todas las novedades y poder interactuar con la comunidad. También están presentes en las redes sociales: `Facebook <https://www.facebook.com/opendatakit>`__ y `Twitter <https://twitter.com/opendatakit>`__.
+ODK comenzó como un proyecto de Google.org, en abril de 2008 y los desarrolladores principales son investigadores del Departamento de Ciencias Computacionales e Ingeniería de la **Universidad de Washington**. En la actualidad está apoyada en una extensa comunidad de usuarios y desarrolladores que contribuyen en el proceso de crecimiento y mejora de esta herramienta. `Open Data Kit <https://opendatakit.org/>`__ y el `Foro ODK <https://forum.opendatakit.org/>`__ permiten estar al tanto de todas las novedades y poder interactuar con la comunidad. También están presentes en las redes sociales `Facebook <https://www.facebook.com/opendatakit>`__ y `Twitter <https://twitter.com/opendatakit>`__.
 
 Se pueden hacer muchos tipos de formularios aplicados a diferentes áreas:
 
@@ -80,15 +80,15 @@ Durante el proceso de instalación debemos aceptar que la aplicación acceda a d
 .. figure:: /media/googleplay_collect2.jpg
    :align: center
 
-Configuración de ODK collect
+Configuración de ODK Collect
 ----------------------------
 
-A continuación, utilizando el acceso creado en nuestra pantalla, entramos en la aplicación odk collect y vemos su pantalla principal. Lo primero que vamos a hacer es comprobar la configuración de la aplicación. Pulsa sobre el botón superior derecho y selecciona “cambiar la configuración”. A continuación selecciona “Server”.
+A continuación, utilizando el acceso creado en nuestra pantalla, entramos en la aplicación Collect y vemos su pantalla principal. Lo primero que vamos a hacer es comprobar la configuración de la aplicación. Pulsa sobre el botón superior derecho y selecciona “Cambiar la configuración”. A continuación selecciona “Servidor - Usuario”.
 
 .. figure:: /media/collect_conf.jpg
    :align: center
 
-Inicialmente odk collect está configurado para el acceso a un servidor de prueba de tipo “ODK Aggregate”: https://opendatakit.appspot.com, al que es posible el acceso de forma anónima, es decir, no hace falta ni usuario ni contraseña. Deja la configuración tal como está y pulsa el botón “atrás” de tu Smartphone hasta volver a la pantalla inicial de la aplicación.
+Inicialmente Collect está configurado para el acceso a un servidor de prueba de tipo “ODK Aggregate” cuya dirección URL es https://opendatakit.appspot.com y al que es posible el acceso de forma anónima, es decir, no hace falta ni usuario ni contraseña. Deja la configuración tal como está y pulsa el botón “atrás” de tu Smartphone hasta volver a la pantalla inicial de la aplicación.
 
 .. figure:: /media/collect_default_conf.jpg
    :align: center
