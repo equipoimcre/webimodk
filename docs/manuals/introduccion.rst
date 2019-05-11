@@ -12,8 +12,8 @@ Introducción
    
    Este apartado requiere un conocimiento a nivel de usuario del sistema operativo Android, el sistema operativo más extendido para Smartphone y Tablet, así como estar familiarizado con el uso de navegadores de Internet. 
 
-¿Qué es ODK?
-------------
+¿Qué es Open Data Kit?
+----------------------
    
 La recolección de datos sobre el terreno es una tarea fundamental dentro de la acción humanitaria ya sea cuando se interviene en una emergencia o en un proyecto de desarrollo.
 
@@ -36,37 +36,37 @@ Herramientas más utilizadas
 
 Las herramientas más utilizadas son:
 
-* |BUILD| Build: para crear un formulario de recopilación de datos o una encuesta.
-* |COLLECT| Collect: permite reunir datos en un dispositivo móvil y enviarla a un servidor.
-* |AGGREGATE| Aggregate: agrega los datos recogidos en un servidor y permite extraerlos en formatos útiles.
+* |BUILD| Build: para **crear un formulario** de recopilación de datos o una encuesta.
+* |COLLECT| Collect: permite **registrar** datos en un dispositivo móvil y **enviarlos** a un servidor.
+* |AGGREGATE| Aggregate: funciona como un **concentrador** de los datos recogidos y permite extraerlos y difundirlos en formatos útiles.
 
 .. admonition:: ¿Sabías que? 
 
-   Google Drive, el espacio de almacenamiento de Google en la nube, puede ser utilizado también como “servidor”, para obtener los formularios y recopilar la información. Es una opción más sencilla de implementar que Aggregate y, por eso, será abordada en primer lugar.
+   Google Drive, el espacio de almacenamiento de Google en la nube, puede ser utilizado también como “servidor”, para obtener los formularios y recopilar la información. Es una opción más sencilla de implementar que Aggregate.
 
 Comunicación entre herramientas
 -------------------------------
 
-Mientras que Build se comunica de forma unidireccional con Aggregate para enviarle los formularios en blanco, en cambio, la comunicación entre Collect y Aggregate es bidireccional: collect obtiene los formularios en blanco del servidor y los envía una vez se hayan rellenado.
+Mientras que Build se comunica de forma **unidireccional** con Aggregate para enviarle los formularios en blanco, en cambio, la comunicación entre Collect y Aggregate es **bidireccional**: Collect obtiene los formularios en blanco del servidor y los envía una vez se hayan rellenado.
 
 .. figure:: /media/comunicacion.jpg
    :align: center
 
-Instalación de la aplicación ODK collect
+Instalación de la aplicación ODK Collect
 ----------------------------------------
 
-A continuación vamos a realizar paso a paso la instalación de la aplicación ODK collect en nuestro Smartphone. 
+A continuación vamos a realizar paso a paso la instalación de la aplicación ODK Collect en nuestro Smartphone. 
 
-Una vez en nuestro dispositivo vamos a “Play Store” donde se pueden buscar e instalar las aplicaciones para nuestro Smartphone.
+Una vez en nuestro dispositivo vamos a **“Play Store”** donde se pueden buscar e instalar las aplicaciones para nuestro dispositivo.
 
 .. figure:: /media/googleplay.jpg
    :align: center
 
 .. admonition:: Debes conocer
 
-   Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Playstore.
+   Es necesario disponer de una cuenta de Gmail y configurarla adecuadamente para instalar cualquier aplicación del Play Store.
 
-Utilizando el cuadro superior de búsqueda, escribimos el nombre de la aplicación a instalar: ODK collect. Observaremos que según escribimos el nombre nos va sugiriendo resultados entre los que se encuentra el nombre de nuestra aplicación. Una vez localizada la aplicación, le damos a “instalar”.
+Utilizando el cuadro superior de búsqueda, escribimos el nombre de la aplicación a instalar: ODK Collect. Observaremos que según escribimos el nombre nos va sugiriendo resultados entre los que se encuentra el nombre de nuestra aplicación. Una vez localizada la aplicación, le damos a “instalar”.
 
 .. figure:: /media/googleplay_collect.jpg
    :align: center
@@ -75,7 +75,7 @@ Utilizando el cuadro superior de búsqueda, escribimos el nombre de la aplicaci�
 
    Cuando instales aplicaciones en tu dispositivo móvil conéctate a una red wifi para evitar un consumo innecesario de nuestra tarifa de datos.
 
-Durante el proceso de instalación debemos aceptar que la aplicación acceda a determinados contenidos y herramientas del Smartphone. Finalmente nos ofrecerá la posibilidad de abrir la aplicación que ya está disponible en nuestro dispositivo.
+Durante el proceso de instalación debemos aceptar que la aplicación acceda a determinados contenidos y herramientas de nuestro teléfono. Finalmente nos ofrecerá la posibilidad de abrir la aplicación que ya está disponible en nuestro dispositivo.
 
 .. figure:: /media/googleplay_collect2.jpg
    :align: center
