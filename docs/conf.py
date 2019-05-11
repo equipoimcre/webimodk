@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ODK - Cruz Roja Española'
+project = u'Inf. Management & Open Data Kit'
 copyright = u'2019, Cruz Roja Española'
 
 # The version info for the project you're documenting, acts as replacement for
