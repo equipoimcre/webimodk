@@ -52,8 +52,8 @@ Mientras que Build se comunica de forma **unidireccional** con Aggregate para en
 .. figure:: /media/comunicacion.jpg
    :align: center
 
-Instalación de la aplicación ODK Collect
-----------------------------------------
+Instalación de ODK Collect
+--------------------------
 
 A continuación vamos a realizar paso a paso la instalación de la aplicación ODK Collect en nuestro Smartphone. 
 
