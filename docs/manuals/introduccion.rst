@@ -102,7 +102,7 @@ La aplicación valida en este momento que el servidor, usuario y contraseñas in
 
 Se trata de un formulario demostrativo de los diferentes tipos de preguntas disponibles en ODK. Aunque se encuentra en inglés nos puede dar una primera idea del tipo de información que se puede recopilar y de la potencialidad de esta herramienta.
 
-Una vez descargado el formulario debes pulsar “de acuerdo” (4).
+Una vez descargado el formulario debes pulsar “De acuerdo” (4).
 
 .. figure:: /media/collect_blank_form.jpg
    :align: center
@@ -110,7 +110,7 @@ Una vez descargado el formulario debes pulsar “de acuerdo” (4).
 Introducción de información en un formulario
 --------------------------------------------
 
-Volvemos a la pantalla principal y entramos en “llenar nuevo formulario”. Seleccionamos el formulario que nos acabamos de descargar y entramos ya a las diferentes preguntas del mismo.
+Volvemos a la pantalla principal y entramos en “Llenar Nuevo Formulario”. Seleccionamos el formulario que nos acabamos de descargar y entramos ya a las diferentes preguntas del mismo.
 
 .. figure:: /media/collect_added_form.jpg
    :align: center
