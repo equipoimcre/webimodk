@@ -8,45 +8,20 @@
 Introducción
 ============
 
-Presentación y objetivos
-------------------------
+.. admonition:: Comocimientos previos
+   
+   Este apartado requiere un conocimiento a nivel de usuario del sistema operativo Android, el sistema operativo más extendido para Smartphone y Tablet, así como estar familiarizado con el uso de navegadores de Internet. 
 
+¿Qué es ODK?
+------------
+   
 La recolección de datos sobre el terreno es una tarea fundamental dentro de la acción humanitaria ya sea cuando se interviene en una emergencia o en un proyecto de desarrollo.
 
 Tradicionalmente este trabajo se ha realizado rellenando a mano las encuestas y  tabulándolas posteriormente. Esta técnica es poco eficiente y son muy numerosas las posibles fuentes de error desde el momento de recoger la información hasta la publicación de los resultados.
 
-Open Data Kit (ODK) es un conjunto de herramientas informáticas que permite sistematizar algunas de las tareas que intervienen en todo este proceso facilitando la realización de las encuestas a través de dispositivos móviles y el procesamiento de las mismas, disminuyendo en buena medida posibles errores.
+Open Data Kit (ODK) es un conjunto de herramientas informáticas de código libre que permiten sistematizar algunas de las tareas que intervienen en todo este proceso facilitando la creación e implementación de las encuestas a través de dispositivos móviles y el procesamiento de las mismas, sustituyendo el uso del papel, ahorrándonos horas de transcripción y, lo más importante, disminuyendo en buena medida posibles errores. Todo esto contribuye a obtener la información necesaria en un tiempo menor y dar una respuesta más rápida y eficaz.
 
-Esta unidad pretende realizar una introducción a las diferentes  herramientas ODK, mostrar para qué sirven y las relaciones existentes entre las mismas. Posteriormente se introducirá la herramienta principal a través de la que se realizan las encuestas, denominada “odk collect” y que, en posteriores unidades, nos servirá para enlazar con el resto de herramientas.
-
-De forma más concreta, los objetivos de esta unidad son:
-
-- Conocer las diferentes herramientas que forman parte de ODK, para qué sirven y cómo se relacionan.
-
-- Instalar en nuestro dispositivo móvil la aplicación Collect e iniciarnos en su uso.
-
-Comocimientos previos y recursos
---------------------------------
-
-Esta unidad requiere un conocimiento a nivel de usuario del sistema operativo Android, el sistema operativo más extendido para Smartphone y Tablet, así como estar familiarizado con el uso de navegadores de Internet. 
-
-Como recursos adicionales hay que destacar el abundante y extenso material que puede encontrarse en Internet, que puede utilizarse para resolver dudas y ampliar conocimientos, destacando las siguientes páginas:
-
-- `Open Data Kit <https://opendatakit.org/>`__.
-- `Foro ODK <https://forum.opendatakit.org/>`__.
-
-.. admonition:: Recomendación
-
-   ODK está en continuo proceso de desarrollo y mejora. Regístrate en el foro de ODK para estar al tanto de todas las novedades y poder interactuar con la comunidad de usuarios.
-
-¿Qué es ODK?
-------------
-
-Open Data Kit (ODK) es un conjunto de Herramientas de código libre que ayuda a las organizaciones a crear, implementar y administrar soluciones de recopilación de datos móviles. 
-
-Comenzó como un proyecto de Google.org, en abril de 2008 y los desarrolladores principales son investigadores del Departamento de Ciencias Computacionales e Ingeniería de la Universidad de Washington.
-
-ODK nos permite realizar formularios en dispositivos móviles y enviar la información directamente al ordenador, sustituyendo el uso del papel y ahorrándonos horas de transcripción. Esto nos facilita obtener la información necesaria en un tiempo menor para dar una respuesta más rápida y eficaz.
+ODK comenzó como un proyecto de Google.org, en abril de 2008 y los desarrolladores principales son investigadores del Departamento de Ciencias Computacionales e Ingeniería de la Universidad de Washington. En la actualidad está formada por una extensa comunidad de usuarios y desarrolladores que contribuyen en el proceso de crecimiento y mejora de esta herramienta. `Open Data Kit <https://opendatakit.org/>`__ y el `Foro ODK <https://forum.opendatakit.org/>`__ permiten estar al tanto de todas las novedades y poder interactuar con la comunidad. También están presentes en las redes sociales: `Facebook <https://www.facebook.com/opendatakit>`__ y `Twitter <https://twitter.com/opendatakit>`__.
 
 Se pueden hacer muchos tipos de formularios aplicados a diferentes áreas:
 
@@ -55,7 +30,7 @@ Se pueden hacer muchos tipos de formularios aplicados a diferentes áreas:
 - Evaluaciones en terreno, líneas de base, etc.
 
 Estos formularios pueden recoger también imágenes, audios, vídeos, geolocalización, etc., facilitando la evaluación y la visibilidad de las operaciones con un único dispositivo.
-
+   
 Herramientas más utilizadas
 ---------------------------
 
