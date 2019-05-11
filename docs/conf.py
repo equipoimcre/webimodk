@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ODK IM CRE'
-copyright = u'2014, Read the Docs'
+project = u'OpenDataKit-Cruz Roja EspañolaE'
+copyright = u'2019, Cruz Roja Española'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
