@@ -30,7 +30,14 @@ Se pueden hacer muchos tipos de formularios aplicados a diferentes áreas:
 - Evaluaciones en terreno, líneas de base, etc.
 
 Estos formularios pueden recoger también imágenes, audios, vídeos, geolocalización, etc., facilitando la evaluación y la visibilidad de las operaciones con un único dispositivo.
-   
+
+ODK y ODK-X
+-----------
+
+Una importante evolución de ODK ha dado lugar al denominado ODK-X. Mientras que ODK se considera una herramienta robusta y simple para la realización de encuestas, compatible con otras herramientas muy utilizadas (Ona, Enketo, Kobo, ELMO) y con una amplia comunidad de usuarios; ODK-X es una herramienta concebida para flujos de trabajo complejos permitiendo saltar de un punto a otro de la encuesta, la sincronización de información con el servidor en ambas direcciones y, en definitiva, la gestion de la información desde el propio dispositivo.
+
+Dada la larga trayectoria de las herramientas ODK y su gran rendimiento en la mayoría de los trabajos de recolección de información, esta web se centrará en la explicación de estas herramientas. En cualquier caso, Cruz Roja está explorando las capcidades de ODK-X y sus necesidades de infraestructura tecnológica para poder emplear también en el futuro las herramientas de ODK-X.
+
 Herramientas más utilizadas
 ---------------------------
 
