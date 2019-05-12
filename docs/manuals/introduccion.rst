@@ -131,12 +131,13 @@ En esta primera pantalla no hay que rellenar nada, simplemente es de carácter *
 .. figure:: /media/collect_note.jpg
    :align: center
 
-El formulario nos ofrece ahora un elemento de tipo **texto**. Se trata de una pregunta a rellenar con una palabra o cojunto de palabras. Escribe cualquier cosa y desliza la pantalla hacia la izquierda para pasar a la siguiente pregunta.
-
+El formulario nos ofrece ahora un elemento de tipo **texto**. Se trata de una pregunta titulada "String widget" a rellenar con una palabra o conjunto de palabras en el espacio en blanco (1) usando para ello el teclado que se nos despliega en la parte inferior (2). Escribe cualquier cosa y desliza la pantalla hacia la izquierda para pasar a la siguiente pregunta.
+ 
 .. figure:: /media/collect_add_text.jpg
    :align: center
-   
-   
+
+En la siguiente pantalla se nos pide introducir un texto de tipo **numérico**. 
+............
 
 Las diferentes pantallas se pasan deslizando el dedo sobre la misma ya sea hacia adelante (izquierda) o hacia atrás (derecha). Completa las preguntas y desliza la pantalla hacia la izquierda para proseguir con el formulario.
 
