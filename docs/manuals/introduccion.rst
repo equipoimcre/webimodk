@@ -10,7 +10,7 @@ Introducción
 
 .. admonition:: Comocimientos previos
    
-   Este apartado requiere un conocimiento a nivel de usuario del sistema operativo Android, el sistema operativo más extendido para Smartphone y Tablet, así como estar familiarizado con el uso de navegadores de Internet. 
+   Este apartado requiere un conocimiento a nivel de usuario del sistema operativo Android, el más extendido para Smartphone y Tablet, así como estar familiarizado con el uso de navegadores de Internet. 
 
 ¿Qué es Open Data Kit?
 ----------------------
