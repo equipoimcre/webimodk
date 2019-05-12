@@ -121,15 +121,22 @@ Una vez descargado el formulario debes pulsar “De acuerdo” (4).
 Introducción de información en un formulario
 --------------------------------------------
 
-Volvemos a la pantalla principal y entramos en “Llenar Nuevo Formulario”. Seleccionamos el formulario que nos acabamos de descargar y entramos ya a las diferentes preguntas del mismo.
+Volvemos a la pantalla principal y entramos en “Llenar Nuevo Formulario” (1). Seleccionamos el formulario que nos acabamos de descargar (2) y entramos ya a las diferentes preguntas del mismo.
 
 .. figure:: /media/collect_added_form.jpg
    :align: center
 
-En esta primera pantalla se solicita información sobre la persona que realiza las observaciones: en primer lugar el nombre y después el país. Se trata de información textual.
+En esta primera pantalla no hay que rellenar nada, simplemente es de carácter **informativo** sobre el objetivo del formulario. Observa que se ofrece un primer bloque (1) en negrita a modo de titular y un segundo bloque (2) mucho más extenso en cursiva. Desliza la pantalla hacia arriba para ver la información que está oculta abajo por no caber en la pantalla. Finalmente, desliza la pantalla hacia la izquierda para pasar al siguiente elemento del formulario.
+
+.. figure:: /media/collect_note.jpg
+   :align: center
+
+El formulario nos ofrece ahora un elemento de tipo **texto**. Se trata de una pregunta a rellenar con una palabra o cojunto de palabras. Escribe cualquier cosa y desliza la pantalla hacia la izquierda para pasar a la siguiente pregunta.
 
 .. figure:: /media/collect_add_text.jpg
    :align: center
+   
+   
 
 Las diferentes pantallas se pasan deslizando el dedo sobre la misma ya sea hacia adelante (izquierda) o hacia atrás (derecha). Completa las preguntas y desliza la pantalla hacia la izquierda para proseguir con el formulario.
 
