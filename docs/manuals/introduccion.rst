@@ -167,6 +167,12 @@ El grupo "Image widgets" recoge ejemplos de preguntas relacionadas con la introd
 .. figure:: /media/collect_photo.jpg
    :align: center
 
+El siguiente grupo se llama "Media widgets" y permite integrar en la encuesta otras informaciones tipo **multimedia** como pueden ser códigos de barras, sonidos o vídeos, utilizando para ello elementos de nuestro dispositivo como la cámara de fotos, la grabadora de vídeo y la de sonido, o añadiendo ficheros ya disponibles en la memoria del smartphone. Haz una prueba y graba un pequeño vídeo o audio y continúa hasta el siguiente grupo de preguntas. 
+
+El grupo "Date and time widgets" contiene elementos que nos permiten registrar información de tipo **fecha y hora** en diferentes formatos y calendarios según nuestras necesidades. En el siguiente ejemplo se muestra el resgistro en una misma pantalla de la fecha y hora.
+
+.. figure:: /media/collect_date_time.jpg
+   :align: center
 
 
 
