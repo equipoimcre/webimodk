@@ -183,12 +183,15 @@ El siguiente grupo es el denominado "GPS widget" que nos permite registrar **coo
 
    Para disponer de cobertura GPS es necesario estar en un lugar abierto: en el campo en áreas de vegetación no muy densa o en áreas urbanas cerca de las ventanas de los edificios si estamos en el interior. Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
 
- En "Select one widgets" podemos encontrar las preguntas en las que sólo es posible **seleccionar una opción** de entre aquellas presentes en la lista facilitada. Desliza la pantalla hacia la izquierda y repasa las múltiples posibilidades utilizando listas, imágenes, menús desplegables, combinación de listas e imágenes, etc. En el siguiente ejemplo se muestra el "Grid select one widget" en el que se puede seleccionar la opción atendiendo a imágenes representativas de las mismas.
+En "Select one widgets" podemos encontrar las preguntas en las que sólo es posible **seleccionar una opción** de entre aquellas presentes en la lista facilitada. Desliza la pantalla hacia la izquierda y repasa las múltiples posibilidades utilizando listas, imágenes, menús desplegables, combinación de listas e imágenes, etc. En el siguiente ejemplo se muestra el "Grid select one widget" en el que se puede seleccionar la opción atendiendo a imágenes representativas de las mismas.
  
 .. figure:: /media/collect_select_list.jpg
    :align: center
 
+El grupo "Select Multi Widgets" agrupa diferentes modelos de preguntas que permiten **seleccionar varias opciones** como respuesta para una pregunta. Observa el siguiente ejemplo denominado "Multi select widget" que es la versión más simple de todas las existentes. Continúa avanzando por el formulario para ver otros modelos de preguntas de selección múltiple.
 
+.. figure:: /media/collect_select_multiple.jpg
+   :align: center
 
 VAMOS POR AQUÍ.....
 
