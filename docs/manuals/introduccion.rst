@@ -147,6 +147,9 @@ En la siguiente pantalla encontramos otra pregunta de tipo texto, aunque con asp
 
 A continuación, progresa a lo largo del formulario pasando diferentes preguntas hasta llegar a la relativa a "Ex printer widget". Habrás observado que ésta y las preguntas anteriores tenían un encabezado común denominado "Text widgets". Esto significa que las preguntas están integradas en un **grupo** lo que permite darles un tratamiento homogéneo dentro del formulario.
 
+.. figure:: /media/collect_group.jpg
+   :align: center
+
 Pasa a la siguiente pregunta denominada "Integer widget" y que forma parte del grupo "Numerical widgets". En esta pregunta se nos pide introducir una respuesta de tipo **numérico**. Introduce cualquier número y desliza la pantalla hacia la izquierda.
 
 .. figure:: /media/collect_add_number.jpg
