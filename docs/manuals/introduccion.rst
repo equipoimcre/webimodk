@@ -198,7 +198,7 @@ Llegando a los últimos tipos de pregunta se nos presenta la pregunta "Rank widg
 .. figure:: /media/collect_rank.jpg
    :align: center
 
-El último tipo de pregunta que se nos muestra es el "Trigger widget" que permite **confirmar** que se ha cumplido (o no) determinadas condiciones en el desarrollo de la encuesta. 
+El último tipo de pregunta que se nos muestra es el "Trigger widget" que permite **confirmar** que se ha cumplido (o no) determinadas condiciones en el desarrollo de la encuesta. Marca la casilla de verificación y desliza la pantalla hacia la izquierda.
 
 .. figure:: /media/collect_trigger.jpg
    :align: center
@@ -207,7 +207,7 @@ El último tipo de pregunta que se nos muestra es el "Trigger widget" que permit
 
    En el formulario que estamos recorriendo puedes dejar sin contestar las preguntas. Sin embargo, es posible obligar al usuario a dar respuesta a las preguntas para seguir adelante con la encuesta e incluso validar sobre la marcha la coherencia de las respuestas.
   
-Desliza de nuevo la pantalla hacia la izquierda. Has llegado al final del formulario. Selecciona “Guardar Formulario y Salir” para terminar la encuesta y volver a la pantalla principal de la aplicación.
+Has llegado al final del formulario. Selecciona “Guardar Formulario y Salir” para terminar la encuesta y volver a la pantalla principal de la aplicación.
 
 .. figure:: /media/collect_form_save_exit.jpg
    :align: center
@@ -215,19 +215,19 @@ Desliza de nuevo la pantalla hacia la izquierda. Has llegado al final del formul
 Envío de la información al servidor
 -----------------------------------
 
-La información está ahora almacenada en nuestro Smartphone. Es el momento de enviarla al servidor que reúne las encuestas que se hayan realizado desde diferentes dispositivos. 
+La información está ahora almacenada en nuestro smartphone. Es el momento de enviarla al servidor que reúne las encuestas que se hayan realizado desde diferentes dispositivos. 
 
-Volvemos a la pantalla principal de la aplicación odk collect. En ella podemos ver que tenemos la posibilidad de enviar o editar el formulario que acabamos de rellenar. Le damos a “enviar formulario finalizado”.
+Volvemos a la pantalla principal de la aplicación Collect. En ella podemos ver que tenemos la posibilidad de enviar o editar el formulario que acabamos de rellenar. Le damos a “Enviar Formulario Finalizado”.
 
 .. figure:: /media/collect_send_form.jpg
    :align: center
 
-En la siguiente pantalla seleccionamos el formulario y le damos a “enviar seleccionados”. 
+En la siguiente pantalla seleccionamos el formulario (1) y le damos a “Enviar seleccionados” (2). 
 
 .. figure:: /media/collect_send_form2.jpg
    :align: center
 
-La aplicación nos informa del resultado del proceso de carga de nuestros datos en el servidor.
+La aplicación nos informa del resultado del proceso de carga de nuestros datos en el servidor Pulsa en "De acuerdo" para cerrar la ventana.
 
 .. figure:: /media/collect_send_form_results.jpg
    :align: center
@@ -237,13 +237,8 @@ En la pantalla principal podemos ver que ya tenemos un formulario en la sección
 .. figure:: /media/collect_send_form_results2.jpg
    :align: center
 
-.. admonition:: Recomendación
+.. admonition:: Resumen y próximos pasos
 
-   Ahora que ya has practicado con un formulario, repite lo descrito en los apartados anteriores con alguno de los otros que se encontraban en el servidor de pruebas.
-
-Resumen y próximos pasos
-------------------------
-
-En esta primera unidad hemos visto los aspectos más esenciales de Open Data Kit: en qué consiste, las diferentes herramientas que lo componen y sus relaciones. Asimismo hemos tenido una primera toma de contacto con la herramienta central “odk collect”, instalando la aplicación en nuestro dispositivo y comprobando sus enormes potencialidades con un formulario de muestra.
-
-Las siguientes unidades entrarán en detalle en las diferentes herramientas que se han enumerado de forma que seamos capaces de abarcar todo el proceso de recopilación y explotación de la información.
+   En este primer apartado hemos visto los aspectos más esenciales de Open Data Kit: en qué consiste, las diferentes herramientas que lo componen y sus relaciones. Asimismo hemos tenido una primera toma de contacto con la herramienta central “odk Collect”, instalando la aplicación en nuestro dispositivo y comprobando sus enormes potencialidades con un formulario de muestra. Repite el proceso de "Llenar un nuevo formulario" y familiarizate con el manejo de Collect y con las diferentes tipos de preguntas que se pueden configurar.
+   Los siguientes apartados entrarán en detalle en las diferentes herramientas que se han enumerado de forma que seamos capaces de abarcar todo el proceso de recopilación y explotación de la información. 
+   
