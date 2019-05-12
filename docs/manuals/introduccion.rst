@@ -193,7 +193,7 @@ El grupo "Select Multi Widgets" agrupa diferentes modelos de preguntas que permi
 .. figure:: /media/collect_select_multiple.jpg
    :align: center
 
-Llegando a los últimos tipos de pregunta se nos presenta la pregunta "Rank widget" que nos permite establecer un **orden de preferencia** entre las diferentes opciones que se plantean. Una vez seleccionas "Ranking the items" (1) tienes que cambiar el orden de las respuestas (2),manteniendo ligeramente pulsadas las opciones y luego arrastrándolas.
+Llegando a los últimos tipos de pregunta se nos presenta la pregunta "Rank widget" que nos permite establecer un **orden de preferencia** entre las diferentes opciones que se plantean. Una vez seleccionas "Ranking the items" (1) tienes que cambiar el orden de las respuestas (2), manteniendo ligeramente pulsadas las opciones y luego arrastrándolas.
 
 .. figure:: /media/collect_rank.jpg
    :align: center
@@ -206,13 +206,8 @@ El último tipo de pregunta que se nos muestra es el "Trigger widget" que permit
 .. admonition:: Presta atención
 
    En el formulario que estamos recorriendo puedes dejar sin contestar las preguntas. Sin embargo, es posible obligar al usuario a dar respuesta a las preguntas para seguir adelante con la encuesta e incluso validar sobre la marcha la coherencia de las respuestas.
-
-En este momento, la aplicación pregunta si quieres añadir un nuevo grupo. Si eliges “Agregar Grupo” volverás a la pantalla en la que se tomaba la foto y que debe estar encabezada ahora por el rótulo “observation(2)”. Completa las diferentes pantallas de este segundo grupo.
-
-.. figure:: /media/collect_add_group.jpg
-   :align: center
-   
-Al finalizar este segundo grupo, selecciona “No agregar” para pasar a la pantalla final del formulario. Selecciona “Guardar Formulario y Salir” para terminar la encuesta y volver a la pantalla principal de la aplicación.
+  
+Desliza de nuevo la pantalla hacia la izquierda. Has llegado al final del formulario. Selecciona “Guardar Formulario y Salir” para terminar la encuesta y volver a la pantalla principal de la aplicación.
 
 .. figure:: /media/collect_form_save_exit.jpg
    :align: center
