@@ -136,10 +136,19 @@ El formulario nos ofrece ahora un elemento de tipo **texto**. Se trata de una pr
 .. figure:: /media/collect_add_text.jpg
    :align: center
 
-En la siguiente pantalla se nos pide introducir un texto de tipo **numérico**. 
-............
+En la siguiente pantalla se nos pide introducir un texto de tipo **numérico**. Observa que bajo el enunciado de la pregunta que aparece en negrita "String number widget"  (1) aparece en cursiva un pequeño texto aclaratorio sobre la pregunta (2). Este es un recurso de ODK para facilitar el desarrollo y la comprensión de la encuesta. Utilizando el teclado, introduce cualquier número. 
 
-Las diferentes pantallas se pasan deslizando el dedo sobre la misma ya sea hacia adelante (izquierda) o hacia atrás (derecha). Completa las preguntas y desliza la pantalla hacia la izquierda para proseguir con el formulario.
+.. figure:: /media/collect_add_number_options.jpg
+   :align: center
+
+Ya has comprobado que para pasar de una pregunta a otra basta con deslizar la pantalla hacia la izquierda. Comprueba que también es posible retroceder a una pregunta anterior deslizando la pantalla hacia la derecha.
+
+
+VAMOS POR AQUÍ.....
+
+
+
+Completa las preguntas y desliza la pantalla hacia la izquierda para proseguir con el formulario.
 
 En esta segunda pantalla se recoge información relacionada con las condiciones meteorológicas en el momento de las observaciones.
 En primer lugar podemos completar información de tipo numérico en el caso de la temperatura. Posteriormente podemos seleccionar las
