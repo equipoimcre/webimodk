@@ -141,7 +141,9 @@ En la siguiente pantalla encontramos otra pregunta de tipo texto, aunque con asp
 .. figure:: /media/collect_add_number_options.jpg
    :align: center
 
-Ya has comprobado que para **pasar de una pregunta a otra** basta con deslizar la pantalla hacia la izquierda. Comprueba que también es posible **retroceder a una pregunta anterior** deslizando la pantalla hacia la derecha. 
+.. admonition:: Presta atención
+
+   Ya has comprobado que para **pasar de una pregunta a otra** basta con deslizar la pantalla hacia la izquierda. Comprueba que también es posible **retroceder a una pregunta anterior** deslizando la pantalla hacia la derecha. 
 
 A continuación, progresa a lo largo del formulario pasando diferentes preguntas hasta llegar a la relativa a "Ex printer widget". Habrás observado que ésta y las preguntas anteriores tenían un encabezado común denominado "Text widgets". Esto significa que las preguntas están integradas en un **grupo** lo que permite darles un tratamiento homogéneo dentro del formulario.
 
@@ -157,33 +159,16 @@ El siguiente grupo de preguntas es el denominado "Range widgets" que permiten el
 .. figure:: /media/collect_add_range.jpg
    :align: center
 
-El grupo "Image widgets" 
-
-VAMOS POR AQUÍ.....
-
-
-
-Completa las preguntas y desliza la pantalla hacia la izquierda para proseguir con el formulario.
-
-En esta segunda pantalla se recoge información relacionada con las condiciones meteorológicas en el momento de las observaciones.
-En primer lugar podemos completar información de tipo numérico en el caso de la temperatura. Posteriormente podemos seleccionar las
-condiciones de humedad y viento entre las que más se ajusten de las listas que se ofrecen.
-
-.. figure:: /media/collect_add_number_options.jpg
-   :align: center
-
-Desliza de nuevo la pantalla hacia la izquierda para acceder a la siguiente pantalla. Observa que ya puedes retroceder a la primera pantalla deslizando el dedo hacia la derecha.
-
-En esta pantalla se nos solicita tomar una foto del ave que estamos observando.
+El grupo "Image widgets" recoge ejemplos de preguntas relacionadas con la introducción de información de tipo **imagen** como pueden ser una foto, un dibujo o incluso una firma. A continuación se recoge el ejemplo relativo al "Image widget" en la que puede registrarse la fotografía bien usando la cámara del teléfono bien seleccionándola de la memoria de nuestro dispositivo. 
 
 .. figure:: /media/collect_photo.jpg
    :align: center
 
-Es posible añadir imágenes a nuestra encuesta ya sea tomando una foto con la cámara o escoger cualquier imagen ya disponible en la memoria del dispositivo. Pasa a la siguiente pantalla deslizando el dedo hacia la izquierda.
 
-.. admonition:: Presta atención
 
-   Si te fijas en la parte superior izquierda “observation(1)” quiere decir que las preguntas bajo esa denominación forman un grupo y que puede repetirse siendo “1” el número de orden que le corresponde. Por tanto, las informaciones de todos los grupos de este formulario tienen en común la identificación del observador y la situación meteorológica.
+
+VAMOS POR AQUÍ.....
+
 
 En esta pantalla se nos solicita identificar el ave observada entre una lista predeterminada.
 
