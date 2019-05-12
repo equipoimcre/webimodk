@@ -174,7 +174,7 @@ El grupo "Date and time widgets" contiene elementos que nos permiten registrar i
 .. figure:: /media/collect_date_time.jpg
    :align: center
 
-El siguiente grupo es el denominado "GPS widget" que nos permite registrar **coordenadas** utilizando el GPS de nuestro dispositivo y localizar el lugar exacto de las observaciones. En la pregunta "Geopoint widget" pulsa en "Buscar ubicación" (1). Espera a que el GPS determine nuestra posición sobre el mapa. También es posible seleccionar nuestra posición de forma manual marcando un punto sobre el mapa (2). Una vez realizado le damos a la opción guardar (3) y veremos nuestras coordenadas geográficas en el formulario (4).
+El siguiente grupo es el denominado "GPS widget" que nos permite registrar **coordenadas** utilizando el GPS de nuestro dispositivo y localizar el punto exacto de las observaciones, el camino que hayamos seguido o delimitar una determinada área. A modo de ejemplo, en la pregunta "Geopoint widget" pulsa en "Buscar ubicación" (1). Espera a que el GPS determine nuestra posición sobre el mapa. También es posible seleccionar nuestra posición de forma manual marcando un punto sobre el mapa (2). Una vez realizado le damos a la opción guardar (3) y veremos nuestras coordenadas geográficas en el formulario (4).
 
 .. figure:: /media/collect_gps.jpg
    :align: center
@@ -183,19 +183,14 @@ El siguiente grupo es el denominado "GPS widget" que nos permite registrar **coo
 
    Para disponer de cobertura GPS es necesario estar en un lugar abierto: en el campo en áreas de vegetación no muy densa o en áreas urbanas cerca de las ventanas de los edificios si estamos en el interior. Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
 
+ En "Select one widgets" podemos encontrar las preguntas en las que sólo es posible **seleccionar una opción** de entre aquellas presentes en la lista facilitada. Desliza la pantalla hacia la izquierda y repasa las múltiples posibilidades utilizando listas, imágenes, menús desplegables, combinación de listas e imágenes, etc. En el siguiente ejemplo se muestra el "Grid select one widget" en el que se puede seleccionar la opción atendiendo a imágenes representativas de las mismas.
  
+.. figure:: /media/collect_select_list.jpg
+   :align: center
 
 
 
 VAMOS POR AQUÍ.....
-
-
-En esta pantalla se nos solicita identificar el ave observada entre una lista predeterminada.
-
-.. figure:: /media/collect_select_list.jpg
-   :align: center
-
-Además de la pregunta en negrita se ofrece un texto en cursiva en el que se incluyen aclaraciones para el usuario. Como podrás ver, los nombres de las diferentes aves se acompañan de imágenes de las mismas para facilitar la identificación. Asimismo se incorporan botones que permiten reproducir vídeos o audios, recursos variados que pueden ayudarnos a elegir la opción correctamente. Prueba los diferentes recursos, selecciona una de las opciones y desliza la pantalla para acceder a la siguiente pregunta.
 
 Finalmente, en esta pantalla se ofrece la posibilidad de añadir algún comentario adicional. Añádelo si quieres y pasa a la siguiente pantalla.
 
