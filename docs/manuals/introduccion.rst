@@ -136,13 +136,28 @@ El formulario nos ofrece ahora un elemento de tipo **texto**. Se trata de una pr
 .. figure:: /media/collect_add_text.jpg
    :align: center
 
-En la siguiente pantalla se nos pide introducir un texto de tipo **numérico**. Observa que bajo el enunciado de la pregunta que aparece en negrita "String number widget"  (1) aparece en cursiva un pequeño texto aclaratorio sobre la pregunta (2). Este es un recurso de ODK para facilitar el desarrollo y la comprensión de la encuesta. Utilizando el teclado, introduce cualquier número. 
+En la siguiente pantalla encontramos otra pregunta de tipo texto, aunque con aspecto numérico. ODK permite jugar con diferentes apariencias para introducir la información. Observa que bajo el enunciado de la pregunta que aparece en negrita "String number widget"  (1) aparece en cursiva un pequeño texto aclaratorio sobre la pregunta (2). Este es un recurso de ODK para facilitar el desarrollo y la comprensión de la encuesta. Utilizando el teclado, introduce cualquier número. 
 
 .. figure:: /media/collect_add_number_options.jpg
    :align: center
 
-Ya has comprobado que para pasar de una pregunta a otra basta con deslizar la pantalla hacia la izquierda. Comprueba que también es posible retroceder a una pregunta anterior deslizando la pantalla hacia la derecha.
+Ya has comprobado que para **pasar de una pregunta a otra** basta con deslizar la pantalla hacia la izquierda. Comprueba que también es posible **retroceder a una pregunta anterior** deslizando la pantalla hacia la derecha. 
 
+A continuación, progresa a lo largo del formulario pasando diferentes preguntas hasta llegar a la relativa a "Ex printer widget". Habrás observado que ésta y las preguntas anteriores tenían un encabezado común denominado "Text widgets". Esto significa que las preguntas están integradas en un **grupo** lo que permite darles un tratamiento homogéneo dentro del formulario.
+
+Pasa a la siguiente pregunta denominada "Integer widget" y que forma parte del grupo "Numerical widgets". En esta pregunta se nos pide introducir una respuesta de tipo **numérico**. Introduce cualquier número y desliza la pantalla hacia la izquierda.
+
+.. figure:: /media/collect_add_number.jpg
+   :align: center
+
+Observa las sucesivas preguntas situadas en el grupo "Numerical widgets" e interactúa con algunas de ellas, observando cómo reflejan la información introducida con el teclado. 
+
+El siguiente grupo de preguntas es el denominado "Range widgets" que permiten elegir determinados valores dentro de los **rangos** sugeridos. Observa el ejemplo para "Range integer widget" y cómo puedes seleccionar el valor entero que desees en el rango situado entre 1 y 10. Revisa los ejemplos posteriores hasta llegar al siguiente grupo.
+
+.. figure:: /media/collect_add_range.jpg
+   :align: center
+
+El grupo "Image widgets" 
 
 VAMOS POR AQUÍ.....
 
