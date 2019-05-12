@@ -1,5 +1,5 @@
-Integración de ODK Collect y Google Drive
-=========================================
+Integración con Google Drive
+============================
 
 Presentación y objetivos
 ------------------------
