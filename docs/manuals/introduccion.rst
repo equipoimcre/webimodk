@@ -193,12 +193,15 @@ El grupo "Select Multi Widgets" agrupa diferentes modelos de preguntas que permi
 .. figure:: /media/collect_select_multiple.jpg
    :align: center
 
-VAMOS POR AQUÍ.....
+Llegando a los últimos tipos de pregunta se nos presenta la pregunta "Rank widget" que nos permite establecer un **orden de preferencia** entre las diferentes opciones que se plantean. Una vez seleccionas "Ranking the items" (1) tienes que cambiar el orden de las respuestas (2),manteniendo ligeramente pulsadas las opciones y luego arrastrándolas.
 
-Finalmente, en esta pantalla se ofrece la posibilidad de añadir algún comentario adicional. Añádelo si quieres y pasa a la siguiente pantalla.
+.. figure:: /media/collect_rank.jpg
+   :align: center
 
-.. figure:: /media/collect_add_comments.jpg
-   :align: center 
+El último tipo de pregunta que se nos muestra es el "Trigger widget" que permite **confirmar** que se ha cumplido (o no) determinadas condiciones en el desarrollo de la encuesta. 
+
+.. figure:: /media/collect_trigger.jpg
+   :align: center
 
 .. admonition:: Presta atención
 
