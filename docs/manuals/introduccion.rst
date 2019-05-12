@@ -169,10 +169,21 @@ El grupo "Image widgets" recoge ejemplos de preguntas relacionadas con la introd
 
 El siguiente grupo se llama "Media widgets" y permite integrar en la encuesta otras informaciones tipo **multimedia** como pueden ser códigos de barras, sonidos o vídeos, utilizando para ello elementos de nuestro dispositivo como la cámara de fotos, la grabadora de vídeo y la de sonido, o añadiendo ficheros ya disponibles en la memoria del smartphone. Haz una prueba y graba un pequeño vídeo o audio y continúa hasta el siguiente grupo de preguntas. 
 
-El grupo "Date and time widgets" contiene elementos que nos permiten registrar información de tipo **fecha y hora** en diferentes formatos y calendarios según nuestras necesidades. En el siguiente ejemplo se muestra el resgistro en una misma pantalla de la fecha y hora.
+El grupo "Date and time widgets" contiene elementos que nos permiten registrar información de tipo **fecha y hora** en diferentes formatos y calendarios según nuestras necesidades. En el siguiente ejemplo se muestra el registro en una misma pantalla de la fecha y hora.
 
 .. figure:: /media/collect_date_time.jpg
    :align: center
+
+El siguiente grupo es el denominado "GPS widget" que nos permite registrar **coordenadas** utilizando el GPS de nuestro dispositivo y localizar el lugar exacto de las observaciones. En la pregunta "Geopoint widget" pulsa en "Buscar ubicación" (1). Espera a que el GPS determine nuestra posición sobre el mapa. También es posible seleccionar nuestra posición de forma manual marcando un punto sobre el mapa (2). Una vez realizado le damos a la opción guardar (3) y veremos nuestras coordenadas geográficas en el formulario (4).
+
+.. figure:: /media/collect_gps.jpg
+   :align: center
+
+.. admonition:: Debes conocer
+
+   Para disponer de cobertura GPS es necesario estar en un lugar abierto: en el campo en áreas de vegetación no muy densa o en áreas urbanas cerca de las ventanas de los edificios si estamos en el interior. Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
+
+ 
 
 
 
@@ -185,23 +196,6 @@ En esta pantalla se nos solicita identificar el ave observada entre una lista pr
    :align: center
 
 Además de la pregunta en negrita se ofrece un texto en cursiva en el que se incluyen aclaraciones para el usuario. Como podrás ver, los nombres de las diferentes aves se acompañan de imágenes de las mismas para facilitar la identificación. Asimismo se incorporan botones que permiten reproducir vídeos o audios, recursos variados que pueden ayudarnos a elegir la opción correctamente. Prueba los diferentes recursos, selecciona una de las opciones y desliza la pantalla para acceder a la siguiente pregunta.
-
-A través de esta pantalla es posible incluir las coordenadas de tu ubicación permitiendo localizar el lugar exacto de las observaciones.
-
-.. figure:: /media/collect_gps.jpg
-   :align: center
-
-Para ello es necesario tener el gps de nuestro dispositivo activado y esperar a que determine nuestra posición, que señalará sobre el mapa.
-
-También es posible seleccionar nuestra posición de forma manual marcando un punto sobre el mapa. Una vez realizado le damos a la opción
-guardar y veremos nuestras coordenadas geográficas en el formulario.
-
-.. figure:: /media/collect_map.jpg
-   :align: center 
-   
-.. admonition:: Debes conocer
-
-   Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
 
 Finalmente, en esta pantalla se ofrece la posibilidad de añadir algún comentario adicional. Añádelo si quieres y pasa a la siguiente pantalla.
 
