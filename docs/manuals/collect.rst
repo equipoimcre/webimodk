@@ -21,12 +21,12 @@ Menú principal
 
 Este es el menú principal una vez accedemos a la aplicación. Ocupando la mayor parte de la pantalla, mediante grandes botones rectangulares, están accesibles los formularios, según el estado en que se encuentren. Las opciones son las siguientes:
 
-- (1) Accedemos para rellenar un nuevo formulario en blanco, elegimos uno de la lista de los que nos hayamos descargado del servidor.
-- (2) Nos permite ir a un formulario que hayamos guardado o dejado a medias y no enviado, para modificarlo. Una vez enviados los formularios no se pueden modificar.
-- (3) Permite deseleccionar aquellos formularios rellenados que queramos enviarlos al servidor. Una vez enviados quedan guardados en el dispositivo pero no aparecen en la aplicación.
-- (4) Permite consultar los formularios enviados desde el dispositivo.
-- (5) Permite acceder al servidor y descargar al dispositivo aquellos formularios en blanco que se elijan.
-- (6) Permite borrar tanto formularios en blanco que hayamos descargado del servidor, como formularios que hayamos rellenado.
+- Accedemos para rellenar un nuevo formulario en blanco, elegimos uno de la lista de los que nos hayamos descargado del servidor (1).
+- Nos permite ir a un formulario que hayamos guardado o dejado a medias y no enviado, para modificarlo. Una vez enviados los formularios no se pueden modificar (2).
+- Permite deseleccionar aquellos formularios rellenados que queramos enviarlos al servidor. Una vez enviados quedan guardados en el dispositivo pero no aparecen en la aplicación (3).
+- Permite consultar los formularios enviados desde el dispositivo (4).
+- Permite acceder al servidor y descargar al dispositivo aquellos formularios en blanco que se elijan (5).
+- Permite borrar tanto formularios en blanco que hayamos descargado del servidor, como formularios que hayamos rellenado (6).
 
 .. figure:: /media/menuprincipal.jpg
    :align: center
@@ -46,10 +46,10 @@ Cambiar la configuración
 
 Las opciones de “Cambiar la configuración” son de gran importancia ya que nos van a permitir seleccionar el servidor con el que trabajamos y personalizar aspectos de apariencia y funcionamiento de la aplicación de forma que ésta se adapte a nuestras necesidades. Las opciones de configuración se dividen en cuatro grandes grupos que se enumeran a continuación: 
 
-- (1) Servidor y parámetros de acceso.
-- (2) Idioma, tamaño del texto y mapas.
-- (3) Envío, rellenado e importación.
-- (4) Id. De usuario y dispositivo.
+- Servidor y parámetros de acceso (1).
+- Idioma, tamaño del texto y mapas (2).
+- Envío, rellenado e importación (3).
+- Id. De usuario y dispositivo (4).
 
 .. figure:: /media/cambiarconf3.jpg
    :align: center
@@ -112,12 +112,12 @@ De esta forma, nos puede interesar o no, tener habilitados más o menos menús; 
 
 La pantalla de opciones de administrador muestra las siguientes opciones: 
 
-- (1) Nos lleva al menú de Configuración.
-- (2) Se puede establecer una contraseña para acceder a este menú.
-- (3) Importar / exportar configuración mediante código QR.
-- (4) Opciones de la pantalla de inicio.
-- (5) Configuración de usuario.
-- (6) Configuración de rellenado de formularios.
+- Nos lleva al menú de Configuración (1).
+- Se puede establecer una contraseña para acceder a este menú (2).
+- Importar / exportar configuración mediante código QR (3).
+- Opciones de la pantalla de inicio (4).
+- Configuración de usuario (5).
+- Configuración de rellenado de formularios (6).
 
 .. figure:: /media/opcionesadministrador.jpg
    :align: center
