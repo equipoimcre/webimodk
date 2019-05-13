@@ -74,7 +74,7 @@ Recientemente se ha implementado un nuevo tipo de servidor que se basa en el uso
 	Los parámetros de acceso al servidor sobre el que se está trabajando deberán ser facilitados por el administrador de sistema o por el responsable del proceso de recolección de datos. En próximas unidades se explicará cómo crear tu propio servidor. 
 
 Configuración de la interfaz de usuario
---------------------------------------_
+---------------------------------------
 
 Permite personalizar aspectos de la interfaz de la aplicación. Además del idioma y el tamaño del texto (1) destaca la posibilidad de elegir la forma en que se pasa de una pantalla a otra en los formularios (2) y la posibilidad de elegir una imagen o logo para que se visualice al iniciar la aplicación (3).
 
