@@ -31,7 +31,7 @@ Este es el menú principal una vez accedemos a la aplicación. Ocupando la mayor
 .. figure:: /media/menuprincipal.jpg
    :align: center
 
-Arriba a la derecha podemos acceder a **“Ajustes”**, a través de un símbolo formado por tres puntos alineados verticalmente. Al pulsar sobre éste icono (1) se abre un desplegable en el que, aparte del “Acerca de” que nos da acceso a recursos adicionales, tenemos dos elementos muy utilizados: “cambiar la configuración” (2) y “opciones de administrador” (3).
+Arriba a la derecha podemos acceder a **“Ajustes”**, a través de un símbolo formado por tres puntos alineados verticalmente. Al pulsar sobre éste icono (1) se abre un desplegable en el que, aparte del “Acerca de” que nos da acceso a recursos adicionales, tenemos dos elementos muy utilizados: “cambiar la configuración” (2) y “opciones de administrador”.
 
 .. figure:: /media/cambiarconf.jpg
    :align: center
