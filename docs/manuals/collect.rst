@@ -61,7 +61,7 @@ Configuración del servidor
 
 Lo primero que hay que hacer es elegir el **tipo** de servidor al que vamos  conectarnos (1). Lo más frecuente es que sea “ODK Aggregate” ya que es el tipo diseñado para ODK desde sus orígenes. Para conectarse a este tipo de servidores es necesario introducir la dirección web o **URL** del mismo (2) y un **usuario y contraseña** que tenga privilegios para la recolección de datos (3).
 
-.. figure:: /media/confserver.jpg
+.. figure:: /media/collect_confserver.jpg
    :align: center
 
 Recientemente se ha implementado un nuevo tipo de servidor que se basa en el uso de la unidad de almacenamiento virtual de Google en la nube, denominada **“Google Drive”**. Para acceder a este tipo de servidor será necesario confirmar nuestros parámetros de acceso de Google y que hayamos creado la hoja de cálculo en la que se introducen las respuestas del formulario o tengamos permiso para su edición. 
