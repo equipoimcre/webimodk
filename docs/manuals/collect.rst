@@ -31,7 +31,7 @@ Este es el menú principal una vez accedemos a la aplicación. Ocupando la mayor
 .. figure:: /media/menuprincipal.jpg
    :align: center
 
-Arriba a la derecha podemos acceder a **“Ajustes”**, a través de un símbolo formado por tres puntos alineados verticalmente. Al pulsar sobre éste icono se abre un desplegable en el que, aparte del “Acerca de” que nos da acceso a recursos adicionales, tenemos dos elementos muy utilizados: “cambiar la configuración” y “opciones de administrador”.
+Arriba a la derecha podemos acceder a **“Ajustes”**, a través de un símbolo formado por tres puntos alineados verticalmente. Al pulsar sobre éste icono (1) se abre un desplegable en el que, aparte del “Acerca de” que nos da acceso a recursos adicionales, tenemos dos elementos muy utilizados: “cambiar la configuración” (2) y “opciones de administrador” (3).
 
 .. figure:: /media/cambiarconf.jpg
    :align: center
@@ -46,10 +46,10 @@ Cambiar la configuración
 
 Las opciones de “Cambiar la configuración” son de gran importancia ya que nos van a permitir **seleccionar el servidor** con el que trabajamos y **personalizar aspectos de apariencia y funcionamiento** de la aplicación de forma que ésta se adapte a nuestras necesidades. Las opciones de configuración se dividen en cuatro grandes grupos que se enumeran a continuación: 
 
-- Servidor y parámetros de acceso (1).
-- Idioma, tamaño del texto y mapas (2).
-- Envío, rellenado e importación (3).
-- Id. De usuario y dispositivo (4).
+- Servidor - Usuario (1), para configurar el servidor y los parámetros de acceso.
+- Interfaz de usuario (2), donde se ofrecen opciones como el idioma, tamaño del texto y mapas.
+- Manejo de formularios (3), con opciones sobre el envío, rellenado e importación.
+- Metadatos del formulario (4), para indicar el identificador de usuario o del dispositivo.
 
 .. figure:: /media/cambiarconf3.jpg
    :align: center
@@ -65,9 +65,6 @@ Lo primero que hay que hacer es elegir el **tipo** de servidor al que vamos  con
    :align: center
 
 Recientemente se ha implementado un nuevo tipo de servidor que se basa en el uso de la unidad de almacenamiento virtual de Google en la nube, denominada **“Google Drive”**. Para acceder a este tipo de servidor será necesario confirmar nuestros parámetros de acceso de Google y que hayamos creado la hoja de cálculo en la que se introducen las respuestas del formulario o tengamos permiso para su edición. 
-
-.. figure:: /media/confgdrive.jpg
-   :align: center
 
 .. admonition:: Presta atención
 
