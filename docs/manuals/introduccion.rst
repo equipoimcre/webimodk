@@ -10,20 +10,20 @@ Introducción
 
 .. admonition:: Comocimientos previos
    
-   Este apartado requiere un conocimiento a nivel de usuario del sistema operativo Android, el más extendido para Smartphone y Tablet, así como estar familiarizado con el uso de navegadores de Internet. 
+   Este apartado requiere un conocimiento a nivel de usuario del sistema operativo Android, el más extendido para smartphones y tabletas, así como estar familiarizado con el uso de navegadores de Internet. 
 
 ¿Qué es Open Data Kit?
 ----------------------
    
 La recolección de datos sobre el terreno es una tarea fundamental dentro de la acción humanitaria ya sea cuando se interviene en una emergencia o en un proyecto de desarrollo.
 
-Tradicionalmente este trabajo se ha realizado rellenando a mano las encuestas y  tabulándolas posteriormente. Esta técnica es poco eficiente y son numerosas las posibles fuentes de error desde el momento de recoger la información hasta la publicación de los resultados.
+Tradicionalmente este trabajo se ha realizado rellenando a mano las encuestas y tabulándolas posteriormente. Esta técnica es poco eficiente y son numerosas las posibles fuentes de error desde el momento de recoger la información hasta la publicación de los resultados.
 
 Open Data Kit (ODK) es un conjunto de herramientas informáticas de **código libre** que permiten sistematizar algunas de las tareas que intervienen en todo este proceso facilitando la creación e implementación de las encuestas a través de dispositivos móviles y el procesamiento de las mismas, sustituyendo el uso del papel, ahorrándonos horas de transcripción y, lo más importante, disminuyendo en buena medida posibles errores. Todo esto contribuye a obtener la información necesaria en un tiempo menor y dar una respuesta más rápida y eficaz.
 
 ODK comenzó como un proyecto de Google.org, en abril de 2008 y los desarrolladores principales son investigadores del Departamento de Ciencias Computacionales e Ingeniería de la **Universidad de Washington**. En la actualidad está apoyada en una extensa comunidad de usuarios y desarrolladores que contribuyen en el proceso de crecimiento y mejora de esta herramienta. `Open Data Kit <https://opendatakit.org/>`__ y el `Foro ODK <https://forum.opendatakit.org/>`__ permiten estar al tanto de todas las novedades y poder interactuar con la comunidad. También están presentes en las redes sociales `Facebook <https://www.facebook.com/opendatakit>`__ y `Twitter <https://twitter.com/opendatakit>`__.
 
-Se pueden hacer muchos tipos de formularios aplicados a diferentes áreas:
+ODK nos permitirá hacer muchos tipos de formularios aplicados a diferentes áreas:
 
 - Registro de actividades, beneficiarios, pacientes, vehículos, puntos de agua, letrinas, préstamo de material, etc.
 - Encuestas de evaluación y de satisfacción, etc.
@@ -34,9 +34,9 @@ Estos formularios pueden recoger también imágenes, audios, vídeos, geolocaliz
 ODK y ODK-X
 -----------
 
-Una importante evolución de ODK ha dado lugar al denominado ODK-X. Mientras que ODK se considera una herramienta robusta y simple para la realización de encuestas sencillas, compatible con otras herramientas muy utilizadas (Ona, Enketo, Kobo, ELMO) y con una amplia comunidad de usuarios; ODK-X es una herramienta concebida para flujos de trabajo complejos permitiendo saltar de un punto a otro de la encuesta, la sincronización de información con el servidor en ambas direcciones y, en definitiva, la gestion de la información desde el propio dispositivo.
+Una importante evolución de ODK ha dado lugar al denominado ODK-X. Mientras que ODK se considera una herramienta robusta y simple para la realización de encuestas sencillas, compatible con otras herramientas muy utilizadas (Ona, Enketo, Kobo, ELMO) y con una amplia comunidad de usuarios; ODK-X es una herramienta concebida para **flujos de trabajo complejos** permitiendo saltar de un punto a otro de la encuesta, la sincronización de información con el servidor en ambas direcciones y, en definitiva, la **gestion de la información desde el propio dispositivo**.
 
-Dada la larga trayectoria de las herramientas ODK y su gran rendimiento en la mayoría de los trabajos de recolección de información, esta web se centrará en la explicación de estas herramientas. En cualquier caso, Cruz Roja está explorando las capcidades de ODK-X y sus necesidades de infraestructura tecnológica para poder emplear también en el futuro las herramientas de ODK-X. 
+Dada la larga trayectoria de las herramientas ODK y su gran rendimiento en la mayoría de los trabajos de recolección de información, esta web se centrará en la explicación de estas herramientas de uso mas general. En cualquier caso, Cruz Roja está explorando las capcidades de ODK-X y sus necesidades de infraestructura tecnológica para poder emplear también en el futuro las herramientas de ODK-X. 
 
 .. admonition:: Más información 
 
@@ -66,7 +66,7 @@ Mientras que Build se comunica de forma **unidireccional** con Aggregate para en
 Instalación de ODK Collect
 --------------------------
 
-A continuación vamos a realizar paso a paso la instalación de la aplicación ODK Collect en nuestro Smartphone. 
+A continuación vamos a realizar paso a paso la instalación de la aplicación ODK Collect en nuestro smartphone. 
 
 Una vez en nuestro dispositivo vamos a **“Play Store”** donde se pueden buscar e instalar las aplicaciones para nuestro dispositivo.
 
@@ -86,7 +86,7 @@ Utilizando el cuadro superior de búsqueda, escribimos el nombre de la aplicaci�
 
    Cuando instales aplicaciones en tu dispositivo móvil conéctate a una red wifi para evitar un consumo innecesario de nuestra tarifa de datos.
 
-Durante el proceso de instalación debemos aceptar que la aplicación acceda a determinados contenidos y herramientas de nuestro teléfono. Finalmente nos ofrecerá la posibilidad de abrir la aplicación que ya está disponible en nuestro dispositivo.
+Durante el proceso de instalación debemos aceptar que la aplicación acceda a determinados contenidos y herramientas de nuestro teléfono. Finalmente nos ofrecerá la posibilidad de abrir la aplicación una vez está disponible en nuestro dispositivo.
 
 .. figure:: /media/googleplay_collect2.jpg
    :align: center
@@ -121,7 +121,7 @@ Una vez descargado el formulario debes pulsar “De acuerdo” (4).
 Introducción de información en un formulario
 --------------------------------------------
 
-Volvemos a la pantalla principal y entramos en “Llenar Nuevo Formulario” (1). Seleccionamos el formulario que nos acabamos de descargar (2) y entramos ya a las diferentes preguntas del mismo.
+Volvemos a la pantalla principal y entramos en “Llenar Nuevo Formulario” (1). Seleccionamos el que nos acabamos de descargar (2) y entramos a las diferentes preguntas del mismo.
 
 .. figure:: /media/collect_added_form.jpg
    :align: center
@@ -162,7 +162,7 @@ El siguiente grupo de preguntas es el denominado "Range widgets" que permiten el
 .. figure:: /media/collect_add_range.jpg
    :align: center
 
-El grupo "Image widgets" recoge ejemplos de preguntas relacionadas con la introducción de información de tipo **imagen** como pueden ser una foto, un dibujo o incluso una firma. A continuación se recoge el ejemplo relativo al "Image widget" en la que puede registrarse la fotografía bien usando la cámara del teléfono bien seleccionándola de la memoria de nuestro dispositivo. 
+El grupo "Image widgets" recoge ejemplos de preguntas relacionadas con la introducción de información de tipo **imagen** como pueden ser una foto, un dibujo o incluso una firma. A continuación se recoge el ejemplo relativo al "Image widget" en la que puede registrarse la fotografía bien usando la cámara del teléfono bien escogiéndola de la memoria de nuestro dispositivo. 
 
 .. figure:: /media/collect_photo.jpg
    :align: center
@@ -181,7 +181,8 @@ El siguiente grupo es el denominado "GPS widget" que nos permite registrar **coo
 
 .. admonition:: Debes conocer
 
-   Para disponer de cobertura GPS es necesario estar en un lugar abierto: en el campo en áreas de vegetación no muy densa o en áreas urbanas cerca de las ventanas de los edificios si estamos en el interior. Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
+   Para disponer de cobertura GPS es necesario estar en un lugar abierto: en el campo en áreas de vegetación no muy densa o en áreas urbanas cerca de las ventanas de los edificios si estamos en el interior. 
+   Activar la ubicación en tu Smartphone no tiene costes, aunque sí incrementa el consumo de la batería.
 
 En "Select one widgets" podemos encontrar las preguntas en las que sólo es posible **seleccionar una opción** de entre aquellas presentes en la lista facilitada. Desliza la pantalla hacia la izquierda y repasa las múltiples posibilidades utilizando listas, imágenes, menús desplegables, combinación de listas e imágenes, etc. En el siguiente ejemplo se muestra el "Grid select one widget" en el que se puede seleccionar la opción atendiendo a imágenes representativas de las mismas.
  
@@ -193,7 +194,7 @@ El grupo "Select Multi Widgets" agrupa diferentes modelos de preguntas que permi
 .. figure:: /media/collect_select_multiple.jpg
    :align: center
 
-Llegando a los últimos tipos de pregunta se nos presenta la pregunta "Rank widget" que nos permite establecer un **orden de preferencia** entre las diferentes opciones que se plantean. Una vez seleccionas "Ranking the items" (1) tienes que cambiar el orden de las respuestas (2), manteniendo ligeramente pulsadas las opciones y luego arrastrándolas.
+Llegando a los últimos tipos de pregunta se nos presenta la pregunta "Rank widget" que nos permite establecer un **orden de preferencia** entre las diferentes opciones que se plantean. Una vez seleccionas "Ranking the items" (1) tienes que cambiar el orden de las respuestas (2), manteniendo ligeramente pulsadas las opciones y arrastrándolas posteriormente hacia el lugar deseado.
 
 .. figure:: /media/collect_rank.jpg
    :align: center
@@ -205,9 +206,9 @@ El último tipo de pregunta que se nos muestra es el "Trigger widget" que permit
 
 .. admonition:: Presta atención
 
-   En el formulario que estamos recorriendo puedes dejar sin contestar las preguntas. Sin embargo, es posible obligar al usuario a dar respuesta a las preguntas para seguir adelante con la encuesta e incluso validar sobre la marcha la coherencia de las respuestas.
+   En el formulario que estamos recorriendo puedes dejar sin contestar las preguntas. Sin embargo, es posible obligar al usuario a dar respuesta a las preguntas para seguir adelante con la encuesta e incluso validar sobre la marcha la coherencia de las mismas.
   
-Has llegado al final del formulario. Selecciona “Guardar Formulario y Salir” para terminar la encuesta y volver a la pantalla principal de la aplicación.
+Has llegado al final del formulario. Selecciona “Guardar Formulario y Salir” para **terminar la encuesta** y volver a la pantalla principal de la aplicación.
 
 .. figure:: /media/collect_form_save_exit.jpg
    :align: center
@@ -215,7 +216,7 @@ Has llegado al final del formulario. Selecciona “Guardar Formulario y Salir”
 Envío de la información al servidor
 -----------------------------------
 
-La información está ahora almacenada en nuestro smartphone. Es el momento de enviarla al servidor que reúne las encuestas que se hayan realizado desde diferentes dispositivos. 
+La información está ahora almacenada en nuestro smartphone. Es el momento de **enviarla al servidor** que reúne las encuestas que se hayan realizado desde diferentes dispositivos. 
 
 Volvemos a la pantalla principal de la aplicación Collect. En ella podemos ver que tenemos la posibilidad de enviar o editar el formulario que acabamos de rellenar. Le damos a “Enviar Formulario Finalizado”.
 
@@ -237,8 +238,13 @@ En la pantalla principal podemos ver que ya tenemos un formulario en la sección
 .. figure:: /media/collect_send_form_results2.jpg
    :align: center
 
+.. admonition:: Práctica
+
+   Repite el proceso de "Llenar un nuevo formulario" y familiarízate con el manejo de Collect y con las diferentes tipos de preguntas que se pueden configurar.
+
 .. admonition:: Resumen y próximos pasos
 
-   En este primer apartado hemos visto los aspectos más esenciales de Open Data Kit: en qué consiste, las diferentes herramientas que lo componen y sus relaciones. Asimismo hemos tenido una primera toma de contacto con la herramienta central “odk Collect”, instalando la aplicación en nuestro dispositivo y comprobando sus enormes potencialidades con un formulario de muestra. Repite el proceso de "Llenar un nuevo formulario" y familiarizate con el manejo de Collect y con las diferentes tipos de preguntas que se pueden configurar.
+   En este primer apartado hemos visto los aspectos más esenciales de Open Data Kit: en qué consiste, las diferentes herramientas que lo componen y sus relaciones. Asimismo hemos tenido una primera toma de contacto con la herramienta central “odk Collect”, instalando la aplicación en nuestro dispositivo y comprobando sus enormes potencialidades con un formulario de muestra. 
+   
    Los siguientes apartados entrarán en detalle en las diferentes herramientas que se han enumerado de forma que seamos capaces de abarcar todo el proceso de recopilación y explotación de la información. 
    
