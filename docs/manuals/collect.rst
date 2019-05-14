@@ -149,16 +149,16 @@ De entre las anteriores, las opciones más destacadas son las siguientes:
 
 	Desmarca la opción “enviar formulario finalizado” y observa cómo cambia la pantalla principal. Observa que, en caso de querer mantener este cambio, deberías activar también “auto envío” en “opciones de configuración\gestión del formulario”, automatizando de esta forma el proceso.
 
-- Las opciones que puede ver el usuario en el menú opciones de usuario pueden verse en la siguiente imagen.
+- Las posibilidades de personalizar las opciones a las que el usuario podrá acceder son innumerables, abarcando prácticamente todas las existentes en la aplicación. A continuación se muestran la lista de todas ellas tal como aparecen en el apartado "opciones de usuario".
 
 .. figure:: /media/opcionesusuario.jpg
    :align: center
 
 .. admonition:: Práctica
 
-	Deselecciona alguna de las opciones anteriores y observa que deben desaparecer cuando vuelves a su apartado correspondiente en “Cambiar la configuración”.
+	Desmarca alguna de las "opciones de usuario" anteriores y observa que deben desaparecer cuando vuelves a su apartado correspondiente.
  
-- Las opciones que puede tener el usuario al rellenar formularios pueden configurarse en la siguiente pantalla. Destaca el acceso a "cambiar la configuración" (1) y a "cambiar el idioma" (2) entre los disponibles para el formulario.
+- Las opciones que puede tener el usuario disponibles al rellenar formularios pueden configurarse en la siguiente pantalla. Destaca el acceso a "cambiar la configuración" (1) y a "cambiar el idioma" (2) entre los disponibles para el formulario.
 
 .. figure:: /media/opcionesentryform.jpg
    :align: center
