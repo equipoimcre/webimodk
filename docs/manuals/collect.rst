@@ -158,7 +158,7 @@ De entre las anteriores, las opciones más destacadas son las siguientes:
 
 	Deselecciona alguna de las opciones anteriores y observa que deben desaparecer cuando vuelves a su apartado correspondiente en “Cambiar la configuración”.
  
-- Las opciones que puede tener el usuario al rellenar formularios se ven en la siguiente imagen.
+- Las opciones que puede tener el usuario al rellenar formularios pueden configurarse en la siguiente pantalla. Destaca el acceso a "cambiar la configuración" (1) y a "cambiar el idioma" (2) entre los disponibles para el formulario.
 
 .. figure:: /media/opcionesentryform.jpg
    :align: center
