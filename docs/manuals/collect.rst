@@ -126,13 +126,20 @@ La pantalla de opciones de administrador muestra las siguientes opciones:
 
 De entre las anteriores, las opciones más destacadas son las siguientes: 
 
-- Crear una **contraseña de administrador**, para la configuración de los dispositivos y que nadie más pueda modificar la configuración una vez realizada. 
+- Crear una **contraseña de administrador**, para la configuración de los dispositivos y que nadie más pueda modificar la configuración una vez realizada.
+
+.. figure:: /media/opcionesadmin_password.jpg
+   :align: center
 
 .. admonition:: Práctica
 
 	Entra en esta opción e introduce una contraseña que puedas recordar fácilmente. Luego, regresa a la pantalla principal y accede de nuevo a opciones de administrador. Deberá solicitarte la contraseña. Para deshabilitar esta opción, selecciona de nuevo “contraseña de administrador” y déjala en blanco.
 
 - La posibilidad de crear o leer un **código QR** que permita exportar o importar la configuración de un dispositivo a otro. 
+
+.. figure:: /media/opcionesadmin_codigoqr.jpg
+   :align: center
+
 - Las opciones que puede ver el usuario en el menú principal son las que se muestran en la siguiente imagen. 	
 
 .. figure:: /media/opcionesprincipal.jpg
