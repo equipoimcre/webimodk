@@ -81,7 +81,11 @@ Permite personalizar aspectos de la interfaz de la aplicación. Además del **id
 Gestión de formulario
 ^^^^^^^^^^^^^^^^^^^^^
 
-Permite establecer opciones por defecto para que se realicen de acuerdo con el estado de los formularios ya sea a la hora del envío o del rellenado. Respecto al envío, las opciones más relevantes son el "Auto Envío" (1), que permite **automatizar el envío** de los formularios una vez sean completados, ya sea usando una red de datos o wifi y el "Eliminar después de enviar" (2) que permite **eliminar los formularios** de forma automática una vez se han enviado. En relación al rellenado de formularios son importantes el **manejo de restricciones** (3) que configura el momento el que se aplican los controles y validaciones sobre la información introducida y el **formato y tamaño de vídeos y fotos** que debe tenerse en cuenta, sobre todo, si hay condicionantes de cara a la transmisión de la información.
+Permite establecer opciones por defecto para que se realicen de acuerdo con el estado de los formularios ya sea a la hora del envío o del rellenado. 
+
+Respecto al envío, las opciones más relevantes son el "Auto Envío" (1), que permite **automatizar el envío** de los formularios una vez sean completados, ya sea usando una red de datos o wifi y el "Eliminar después de enviar" (2) que permite **eliminar los formularios** de forma automática una vez se han enviado. 
+
+En relación al rellenado de formularios son importantes el **manejo de restricciones** (3) que configura el momento el que se aplican los controles y validaciones sobre la información introducida y el **formato y tamaño de vídeos y fotos** que debe tenerse en cuenta, sobre todo, si hay condicionantes de cara a la transmisión de la información.
 
 .. figure:: /media/gestionform.jpg
    :align: center
@@ -94,7 +98,10 @@ Existe la posibilidad de introducir información identificativa del **usuario** 
 .. figure:: /media/identidad.jpg
    :align: center
 
-Algunos de estas informaciones son definidas por el usuario como el nombre del usuario, número de teléfono o la dirección de correo electrónico. Otras vienen definidas por el dispositivo y no se pueden modificar: identificador del dispositivo y del suscriptor y el número de serie de la tarjeta SIM.
+Algunos de estas informaciones son definidas por el usuario como el nombre del usuario (1), número de teléfono (2) o la dirección de correo electrónico (3). Otras vienen definidas por el dispositivo y no se pueden modificar (4): identificador del dispositivo y del suscriptor y el número de serie de la tarjeta SIM.
+
+.. figure:: /media/identidad2.jpg
+   :align: center
 
 Este tipo de información, aunque no suele utilizarse, es de gran importancia en caso de errores ya que permite conocer de dónde viene la información, es decir, su **trazabilidad**.
 
