@@ -108,7 +108,7 @@ Este tipo de información, aunque no suele utilizarse, es de gran importancia en
 Opciones de administrador
 -------------------------
 
-En opciones de administrador es donde realmente se va a poder configurar la aplicación según conveniencia.
+En opciones de administrador es donde realmente se va a poder configurar la aplicación a conveniencia.
 
 Se pueden dar distintas situaciones a la hora de utilizar Collect, por ejemplo los dispositivos pueden ser propiedad de los encuestadores o se les puede haber prestado para la recolección de datos; o también pueden ser usuarios avanzados o básicos. De esta forma, nos puede interesar o no, **tener habilitados más o menos menús y opciones**; en los dispositivos se queda una copia de los formularios, en caso de pérdida en el servidor se podrían recuperar, pero si los dispositivos son de los voluntarios, puede que no nos interese que se queden datos sensibles guardados; etc.
 
@@ -135,7 +135,7 @@ De entre las anteriores, las opciones más destacadas son las siguientes:
 
 	Entra en esta opción e introduce una contraseña que puedas recordar fácilmente. Luego, regresa a la pantalla principal y accede de nuevo a opciones de administrador. Deberá solicitarte la contraseña. Para deshabilitar esta opción, selecciona de nuevo “contraseña de administrador” y déjala en blanco.
 
-- La posibilidad de crear o leer un **código QR** que permita exportar o importar la configuración de un dispositivo a otro. 
+- La posibilidad de crear o leer un **código QR** que permita exportar o importar la configuración de un dispositivo a otro. El código QR generado permite su lectura desde otro dispositivo a través de nuestra cámara de fotos, utilizando la opción "Escanear código de otro dispositivo".
 
 .. figure:: /media/opcionesadmin_codigoqr.jpg
    :align: center
