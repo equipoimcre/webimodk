@@ -56,8 +56,8 @@ Las opciones de “Cambiar la configuración” son de gran importancia ya que n
 
 A continuación entramos un poco más en detalle en cada una de estas opciones y repasamos sus principales funcionalidades.
 
-Configuración del servidor
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Servidor
+^^^^^^^^
 
 Lo primero que hay que hacer es elegir el **tipo** de servidor al que vamos  conectarnos (1). Lo más frecuente es que sea “ODK Aggregate” ya que es el tipo diseñado para ODK desde sus orígenes. Para conectarse a este tipo de servidores es necesario introducir la dirección web o **URL** del mismo (2) y un **usuario y contraseña** que tenga privilegios para la recolección de datos (3).
 
@@ -70,24 +70,24 @@ Recientemente se ha implementado un nuevo tipo de servidor que se basa en el uso
 
 	Los parámetros de acceso al servidor sobre el que se está trabajando deberán ser facilitados por el administrador de sistema o por el responsable del proceso de recolección de datos. En próximas unidades se explicará cómo crear tu propio servidor. 
 
-Configuración de la interfaz de usuario
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Interfaz de usuario
+^^^^^^^^^^^^^^^^^^^
 
 Permite personalizar aspectos de la interfaz de la aplicación. Además del **idioma de la aplicación** (1), no el del formulario, y el tamaño del **texto** (2) destaca la posibilidad de elegir la **forma en que se pasa de una pantalla a otra** en los formularios (3) y la posibilidad de elegir una **imagen o logo** para que se visualice al iniciar la aplicación (4).
 
 .. figure:: /media/confinterfezusuario.jpg
    :align: center
 
-Configuración de la gestión de formulario
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gestión de formulario
+^^^^^^^^^^^^^^^^^^^^^
 
-Permite establecer opciones por defecto para que se realicen de acuerdo con el estado de los formularios ya sea a la hora del envío o del rellenado. Las opciones más relevantes son el "Auto Envío" (1), que permite **automatizar el envío** de los formularios una vez sean completados, ya sea usando una red de datos o wifi, y el "Eliminar después de enviar" (2) que permite **eliminar los formularios** de forma automática una vez se han enviado.
+Permite establecer opciones por defecto para que se realicen de acuerdo con el estado de los formularios ya sea a la hora del envío o del rellenado. Respecto al envío, las opciones más relevantes son el "Auto Envío" (1), que permite **automatizar el envío** de los formularios una vez sean completados, ya sea usando una red de datos o wifi y el "Eliminar después de enviar" (2) que permite **eliminar los formularios** de forma automática una vez se han enviado. En relación al rellenado de formularios son importantes el **manejo de restricciones** (3) que configura el momento el que se aplican los controles y validaciones sobre la información introducida y el **formato y tamaño de vídeos y fotos** que debe tenerse en cuenta, sobre todo, si hay condicionantes de cara a la transmisión de la información.
 
 .. figure:: /media/gestionform.jpg
    :align: center
 
-Configuración de la identidad de usuario y dispositivo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Identidad de usuario y dispositivo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Existe la posibilidad de introducir información identificativa del **usuario** y del **dispositivo** que pueden asociarse a cada una de los formularios que se realicen. 
 
