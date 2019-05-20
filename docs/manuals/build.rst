@@ -32,11 +32,13 @@ Antes de empezar a entender cómo funciona la herramienta, necesitamos entender 
 
 En un formulario o encuesta, vamos a realizar una serie de preguntas. Cada una de estas preguntas tendrá diferentes tipos de respuesta, es decir, a una determinada pregunta y según cómo esté descrita, la persona que grabe las respuestas tendrá que hacerlo con un texto, con un número, con una fecha, una fotografía, etc. El formato en el que queremos que nos respondan, es el tipo de dato.
 
-A continuación se muestra una tabla con los tipos de datos que nos vamos a encontrar, su descripción, y un ejemplo de pregunta cuya respuesta sería ese tipo de dato:
+A continuación se muestra una tabla con los tipos de datos que nos vamos a encontrar, su descripción, y un ejemplo de pregunta cuya respuesta sería ese tipo de dato.
 
-.. list-table:: Tipos de datos
-   :widths: 10 20 20
+.. tabularcolumns:: |>{\centering\arraybackslash}\X{1}{5}|>{\centering\arraybackslash}\X{1}{5}|>{\centering\arraybackslash}\X{1}{5}|
+
+.. list-table::
    :header-rows: 1
+   :widths: 2 3 3
 
    * - Tipo de Dato
      - Descripción de la Respuesta
