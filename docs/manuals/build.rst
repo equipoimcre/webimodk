@@ -34,13 +34,43 @@ En un formulario o encuesta, vamos a realizar una serie de preguntas. Cada una d
 
 A continuación se muestra una tabla con los tipos de datos que nos vamos a encontrar, su descripción, y un ejemplo de pregunta cuya respuesta sería ese tipo de dato:
 
-.. tabularcolumns:: |p{1cm}|p{7cm}|
-
-.. csv-table:: Tipos de datos
-   :file: /media/tipodato.csv
+.. list-table:: Tipos de datos
+   :widths: 25 25 50
    :header-rows: 1
-   :class: longtable
-   :widths: 1 1
+
+   * - Tipo de Dato
+     - Descripción de la Respuesta
+     - Ejemplo de Pregunta
+   * - Text
+     - Se introduce un texto. Aparece el teclado con todos los caracteres
+     - ¿Cómo te llamas?
+   * - Numeric
+     - Se introduce un número. Se puede elegir que la respuesta sea un número entero o decimal. Aparece el teclado de números
+     - ¿Cuántos años tienes?
+   * - Date/Time
+     - Se introduce una fecha y/u hora en un formato de calendario y/o reloj. Se puede elegir que la respuesta sea una fecha completa, año, año y mes y fecha completa y hora
+     - ¿En qué año naciste?
+   * - Time
+     - Se introduce una hora en formato de reloj digital
+     - ¿A qué hora es la distribución?
+   * - Location
+     - Se graban unas coordenadas geográficas. La respuesta puede ser un punto, una serie de puntos o una forma. Se puede recoger con el GPS por defecto, señalándolo en el mapa o de forma manual
+     - Registra tu posición actual
+   * - Media
+     - Se puede hacer o elegir una fotografía, un audio o un video
+     - Haz una foto de la instalación
+   * - Barcode
+     - Se escanea un código de barras o código QR. Es necesario tener un programa instalado en el dispositivo para este propósito
+     - Escanea el código de barras de la tarjeta del beneficiario
+   * - Choose One
+     - Se puede elegir una opción de las posibilidades que nos den
+     - Selecciona el género del o de la beneficiario/a: masculino, femenino, desconocido
+   * - Select Multiple
+     - Se puede elegir una o varias opciones de las posibilidades que nos den
+     - Selecciona las necesidades más urgentes: agua, comida, refugio, dinero
+   * - Metadata
+     - Este tipo de dato no tiene una pregunta en el formulario, si no que se graba por defecto
+     - ID del dispositivo, hora de comienzo y/o final de la encuesta, fecha, nombre de usuario, ID del suscriptor, número de serie de la SIM, número de teléfono
 
 .. admonition:: Práctica
 
