@@ -35,7 +35,7 @@ En un formulario o encuesta, vamos a realizar una serie de preguntas. Cada una d
 A continuación se muestra una tabla con los tipos de datos que nos vamos a encontrar, su descripción, y un ejemplo de pregunta cuya respuesta sería ese tipo de dato:
 
 .. list-table:: Tipos de datos
-   :widths: 25 25 50
+   :widths: 10 20 20
    :header-rows: 1
 
    * - Tipo de Dato
