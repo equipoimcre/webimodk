@@ -34,7 +34,7 @@ En un formulario o encuesta, vamos a realizar una serie de preguntas. Cada una d
 
 A continuación se muestra una tabla con los tipos de datos que nos vamos a encontrar, su descripción, y un ejemplo de pregunta cuya respuesta sería ese tipo de dato.
 
-.. tabularcolumns:: |>{\centering\arraybackslash}\X{1}{5}|>{\centering\arraybackslash}\X{1}{5}|>{\centering\arraybackslash}\X{1}{5}|
+.. tabularcolumns:: |>{\centering\arraybackslash}\X{1}{5}|>{\centering\arraybackslash}\X{2}{5}|>{\centering\arraybackslash}\X{3}{5}|
 
 .. list-table::
    :header-rows: 1
