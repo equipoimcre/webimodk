@@ -38,7 +38,7 @@ A continuación se muestra una tabla con los tipos de datos que nos vamos a enco
 
 .. list-table::
    :header-rows: 1
-   :width: auto
+   :widths: auto
 
    * - Tipo de Dato
      - Descripción de la Respuesta
