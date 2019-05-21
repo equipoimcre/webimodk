@@ -119,12 +119,12 @@ Este es el panel con el que nos encontramos al entrar en Build:
 .. figure:: /media/build_panel.jpg
    :align: center
 
-Nombre del formulario: permite renombrar un formulario. Si no se le da un nombre se guardará por defecto como “Untitled Form” y finalmente te puedes encontrar con varios con el mismo nombre. Para ello, hay que hacer clic en “rename” y una vez escrito el nuevo nombre, hacer clic en “done”:
+**Nombre del formulario**: permite renombrar un formulario. Si no se le da un nombre se guardará por defecto como “Untitled Form” y finalmente te puedes encontrar con varios con el mismo nombre. Para ello, hay que hacer clic en “rename” y una vez escrito el nuevo nombre, hacer clic en “done”:
 
 .. figure:: /media/build1.jpg
    :align: center
 
-Menús de Build: proporciona varios menús donde poder gestionar el formulario:
+**Menús de Build**: proporciona varios menús donde poder gestionar el formulario:
 - File: tiene los siguientes submenús:
 	- New Form: crear un nuevo formulario.
     - Open Form: da la opción de abrir un formulario guardado previamente dentro de la lista de formularios guardados.
@@ -161,11 +161,11 @@ Se pueden añadir tantos idiomas como se desee, así como eliminar el que no se 
 - View: en la primera parte, permite elegir en qué idioma se quieren ver las preguntas del formulario que se está haciendo, en caso de tener más de uno. La opción de “Collapse Controls” permite cambiar la visualización de las preguntas en Build (ver más o menos información en el Área Principal). 
 - Help: proporciona información sobre Build y enlaces para descargarse el código y reportar fallos que se encuentren en la herramienta. 
 
-Área Principal: es donde van a aparecer todas las preguntas que se vayan configurando en el formulario.
+**Área Principal**: es donde van a aparecer todas las preguntas que se vayan configurando en el formulario.
 
-Tipos de Datos: cada vez que se quiera añadir una pregunta al formulario, hay que hacer clic en el tipo de dato que queremos obtener. 
+**Tipos de Datos**: cada vez que se quiera añadir una pregunta al formulario, hay que hacer clic en el tipo de dato que queremos obtener. 
 
-Área de propiedades: al añadir una pregunta o un tipo de dato, en el área de propiedades aparecerán una serie de elementos para configurar las preguntas. 
+**Área de propiedades**: al añadir una pregunta o un tipo de dato, en el área de propiedades aparecerán una serie de elementos para configurar las preguntas. 
 
 Cómo crear un formulario
 ------------------------
