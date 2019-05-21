@@ -4,6 +4,7 @@ Build
 .. admonition:: Conocimientos previos
 
 	Para la comprensión de este apartado es necesario conocer de forma básica qué es Open Data Kit y cómo funciona la aplicación Collect, tanto a nivel de configuración como de gestión y cumplimentación de formularios. 
+	
 	Asimismo es necesario tener conocimientos básicos sobre la navegación y funcionamiento de aplicaciones web.  
 
 ¿Qué es ODK Build?
@@ -73,8 +74,9 @@ A continuación se muestra una tabla con los tipos de datos que nos vamos a enco
      - ID del dispositivo, hora de comienzo y/o final de la encuesta, fecha, nombre de usuario, ID del suscriptor, número de serie de la SIM, número de teléfono
 
 .. admonition:: Práctica
-
+	
 	Piensa con detenimiento a qué tipo de dato corresponderían las respuestas a las siguientes preguntas:
+	
 	- La fecha de nacimiento.
 	- La foto de la persona beneficiaria
 	- Indica que días de la semana trabajas: L, M, MX, J, V, S, D
@@ -207,13 +209,28 @@ Según los tipos de preguntas, hay algunas particularidades:
 
 - Con algunos tipos de preguntas aparecerá una nueva propiedad, “Kind”, esto mostrará subtipos de formato en los que se pide introducir esa respuesta en el formulario en ODK Collect; se elige según conveniencia. En caso de no seleccionar ninguno aparecerá el que esté seleccionado por defecto:
 
-.. tabularcolumns:: |p{1cm}|p{7cm}|
-
-.. csv-table:: Propiedad kind
-   :file: /media/tipokind.csv
+.. list-table::
    :header-rows: 1
-   :class: longtable
-   :widths: 1 1
+   :widths: auto
+
+   * - Tipo de Dato
+     - Opciones de Kind
+     - Descripción
+   * - Numeric
+     - Integer / Decimal
+     - **Integer**: sólo se puede introducir un número entero. **Decimal**: se puede introducir un número decimal o entero. 
+   * - Date/Time
+     - Full Date / Year and Month / Year / Full Date and Time
+     - **Full Date**: se pide introducir una fecha completa, es decir, día, mes y año. **Year and Month**: se pide introducir año y mes. **Year**: se pide introducir el año. **Full Date and Time**: se pide introducir fecha complete y una hora. 
+   * - Location 
+     - Point / Path / Shape
+     - **Point**: se pide que se introduzca la localización en un punto. **Path**: se pide que se introduzca varias localizaciones formando un camino. **Shape**: se pide que se introduzca varias localizaciones formando una forma cerrada.
+   * - Media
+     - Image / Audio / Video
+     - **Image**: el formulario pide una imagen de archivo o nueva. **Audio**: el formulario pide un audio de archivo o nuevo. **Video**: el formulario pide un video de archivo o nuevo. 
+   * - Metadata
+     - Device ID / Start Time / End Time / Today / Username / Suscriber ID / SIM Serial / Phone Number
+     - **Device ID**: se graba automáticamente el ID del dispositivo. **Start Time**: se graba automáticamente la hora de comienzo de la encuesta. **End Time**: se graba automáticamente la hora de finalización de la encuesta. **Today**: se graba automáticamente el día. **Username**: se graba automáticamente el nombre del usuario del dispositivo. **Subscriber ID**: se graba automáticamente el ID del suscriptor. **SIM Serial**: se graba automáticamente el número de serie de la SIM. **Phone Number**: se graba automáticamente el número de teléfono. Estos datos se grabarán si están disponibles en el dispositivo. Puede que no todos se puedan; dependerá del dispositivo y de si se tiene SIM o no. 
 
 - En otras preguntas aparece una opción que es “Style”:
 
