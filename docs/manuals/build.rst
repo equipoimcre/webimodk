@@ -116,7 +116,7 @@ Panel principal
 
 Este es el panel con el que nos encontramos al entrar en Build:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_panel.jpg
    :align: center
 
 Nombre del formulario: permite renombrar un formulario. Si no se le da un nombre se guardará por defecto como “Untitled Form” y finalmente te puedes encontrar con varios con el mismo nombre. Para ello, hay que hacer clic en “rename” y una vez escrito el nuevo nombre, hacer clic en “done”:
