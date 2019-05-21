@@ -234,14 +234,20 @@ Según los tipos de preguntas, hay algunas particularidades:
 
 - En otras preguntas aparece una opción que es “Style”:
 
-.. tabularcolumns:: |p{1cm}|p{7cm}|
-
-.. csv-table:: Propiedad Style
-   :file: /media/tipostyle.csv
+.. list-table::
    :header-rows: 1
-   :class: longtable
-   :widths: 1 1
- 
+   :widths: auto
+
+   * - Tipo de Dato
+     - Opciones de Style
+     - Descripción
+   * - Location 
+     - Default (GPS) / Show Map (GPS) / Manual (No GPS)
+     - **Default (GPS)**: al solicitar la localización en el formulario, toma los datos del sensor de GPS del dispositivo. **Show Map (GPS)**: al solicitar la localización se muestra el punto del GPS sobre el mapa. **Manual (No GPS)**: al solicitar la localización se muestra el punto del GPS sobre el mapa, pudiendo grabar ese punto u otro seleccionado manualmente sobre el mapa. 
+   * - Choose One & Select Multiple 
+     - Default / Minimal (spinner) / Table / Horizontal Layout
+     - **Default**: en el formulario aparecen todas las opciones. **Minimal (spinner)**: en el formulario las opciones aparecen en un desplegable. **Table**: no funciona correctamente. **Horizontal Layout**: se supone que las opciones aparecen de forma horizontal, pero no funciona correctamente. 
+
 - En el caso de “Choose One” o “Select Multiple” hay que añadir las opciones, y para ello hay dos formas posibles en el Área de Propiedades:
 
 	- Haciendo clic en “Add Option” en el Área de Propiedades para configurar cada una de las opciones que quieras añadir.
