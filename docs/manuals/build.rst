@@ -101,12 +101,12 @@ En el navegador vamos a la siguiente página: http://build.opendatakit.org/
 
 Al entrar, nos sale la siguiente pantalla: si estamos registrados podemos introducir el usuario y la contraseña, pero la primera vez tendremos que hacer clic en “Dont’t yet have an account?”:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_signin.jpg
    :align: center
 
 Entonces habrá que proceder a rellenar los siguientes datos:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_signin2.jpg
    :align: center
 
 Una vez finalizado, se hace clic en “Sign up”. Y la cuenta ya está creada.
