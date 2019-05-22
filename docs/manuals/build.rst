@@ -156,7 +156,7 @@ Este es el panel con el que nos encontramos al entrar en Build:
 
 Una vez escrito se hace clic en “Add Translation”:
 
-.. figure:: /media/build_manage_add_translation.jpg
+.. figure:: /media/build_add_translation.jpg
    :align: center
 
 Se pueden añadir tantos idiomas como se desee, así como eliminar el que no se quiera, haciendo clic en “remove”. Cuando se ha finalizado se hace clic en “Done”.
