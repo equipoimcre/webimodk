@@ -151,17 +151,17 @@ Este es el panel con el que nos encontramos al entrar en Build:
 
 - Edit: principalmente tiene el menú de “Manage Translations” que te permite añadir nuevos idiomas, es decir, que puedas crear el formulario en varios idiomas. Cuando haces clic sobre esa opción, aparece la siguiente ventana. En el desplegable que dice “Add a new language”, se escribe el nombre del idioma que quieres añadir:
 
-.. figure:: /media/manage_translations.jpg
+.. figure:: /media/build_manage_translations.jpg
    :align: center
 
 Una vez escrito se hace clic en “Add Translation”:
 
-.. figure:: /media/manage_add_translation.jpg
+.. figure:: /media/build_manage_add_translation.jpg
    :align: center
 
 Se pueden añadir tantos idiomas como se desee, así como eliminar el que no se quiera, haciendo clic en “remove”. Cuando se ha finalizado se hace clic en “Done”.
 
-.. figure:: /media/manage_translations_done.jpg
+.. figure:: /media/build_manage_translations_done.jpg
    :align: center
 
 - View: en la primera parte, permite elegir en qué idioma se quieren ver las preguntas del formulario que se está haciendo, en caso de tener más de uno. La opción de “Collapse Controls” permite cambiar la visualización de las preguntas en Build (ver más o menos información en el Área Principal). 
