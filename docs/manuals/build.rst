@@ -127,6 +127,7 @@ Este es el panel con el que nos encontramos al entrar en Build:
 **Menús de Build**: proporciona varios menús donde poder gestionar el formulario:
 
 - File: tiene los siguientes submenús:
+
 	- New Form: crear un nuevo formulario.
     	- Open Form: da la opción de abrir un formulario guardado previamente dentro de la lista de formularios guardados.
     	- Save: guardar un formulario, es recomendable haberlo nombrado con anterioridad. Si no, te lo guarda sobre el formulario que estés. Por otro lado, es recomendable ir pulsando “Save” cuando se está haciendo un formulario nombrado previamente para no perder los cambios.
@@ -145,7 +146,7 @@ Este es el panel con el que nos encontramos al entrar en Build:
 
 	Build no guarda los cambios automáticamente. Es importante guardar los formularios que se vayan creando así como las modificaciones que se les haga. Sobre todo antes de abrir nuevos formularios o de cerrar la sesión. No obstante, Build suele dar algunos mensajes para avisar:
 	
-	.. figure:: /media/buil_aviso.jpg
+	.. figure:: /media/build_aviso.jpg
 		:align: center
 
 - Edit: principalmente tiene el menú de “Manage Translations” que te permite añadir nuevos idiomas, es decir, que puedas crear el formulario en varios idiomas. Cuando haces clic sobre esa opción, aparece la siguiente ventana. En el desplegable que dice “Add a new language”, se elige el idioma que quieres añadir:
