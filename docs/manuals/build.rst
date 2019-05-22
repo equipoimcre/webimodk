@@ -121,29 +121,31 @@ Este es el panel con el que nos encontramos al entrar en Build:
 
 **Nombre del formulario**: permite renombrar un formulario. Si no se le da un nombre se guardará por defecto como “Untitled Form” y finalmente te puedes encontrar con varios con el mismo nombre. Para ello, hay que hacer clic en “rename” y una vez escrito el nuevo nombre, hacer clic en “done”:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_nombre.jpg
    :align: center
 
 **Menús de Build**: proporciona varios menús donde poder gestionar el formulario:
+
 - File: tiene los siguientes submenús:
 	- New Form: crear un nuevo formulario.
-    - Open Form: da la opción de abrir un formulario guardado previamente dentro de la lista de formularios guardados.
-    - Save: guardar un formulario, es recomendable haberlo nombrado con anterioridad. Si no, te lo guarda sobre el formulario que estés. Por otro lado, es recomendable ir pulsando “Save” cuando se está haciendo un formulario nombrado previamente para no perder los cambios.
-    - Save Form As: permite guardar un formulario con el nombre que se desee.
-    - Save Form to File: permite descargarte el formulario en formato “.odkbuild”. Este archivo te permite poder enviarlo y abrirlo desde otra cuenta Build. Los documentos que se descargan al ordenador desde Build suelen guardarse en la carpeta “Descargas” o “Downloads”.
-    - Load Form from File: permite abrir en Build un archivo “.odkbuild”. Para ello tendrás que hacer clic en “Choose” y elegir el archivo en la ubicación donde se encuentre, y hacer clic en “Load”. Recuerda haber guardado el formulario anterior si estuvieses trabajando en uno; Build no guarda los cambios automáticamente:
+    	- Open Form: da la opción de abrir un formulario guardado previamente dentro de la lista de formularios guardados.
+    	- Save: guardar un formulario, es recomendable haberlo nombrado con anterioridad. Si no, te lo guarda sobre el formulario que estés. Por otro lado, es recomendable ir pulsando “Save” cuando se está haciendo un formulario nombrado previamente para no perder los cambios.
+    	- Save Form As: permite guardar un formulario con el nombre que se desee.
+    	- Save Form to File: permite descargarte el formulario en formato “.odkbuild”. Este archivo te permite poder enviarlo y abrirlo desde otra cuenta Build. Los documentos que se descargan al ordenador desde Build suelen guardarse en la carpeta “Descargas” o “Downloads”.
+    	- Load Form from File: permite abrir en Build un archivo “.odkbuild”. Para ello tendrás que hacer clic en “Choose” y elegir el archivo en la ubicación donde se encuentre, y hacer clic en “Load”. Recuerda haber guardado el formulario anterior si estuvieses trabajando en uno; Build no guarda los cambios automáticamente:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_loadform.jpg
    :align: center
 
-    - Upload Form to Aggregate: permite exportar el formulario en blanco que se ha creado, directamente a Aggregate. Se verá en el apartado “Exportar un formulario”.
-    - Export to XML: permite descargar el formulario en formato “.XML”.
-    - Export to XLSForm: permite descargar el formulario en formato Excel, que posibilita hacer formularios más complejos y versátiles con más funcionalidades.
+    	- Upload Form to Aggregate: permite exportar el formulario en blanco que se ha creado, directamente a Aggregate. Se verá en el apartado “Exportar un formulario”.
+    	- Export to XML: permite descargar el formulario en formato “.XML”.
+    	- Export to XLSForm: permite descargar el formulario en formato Excel, que posibilita hacer formularios más complejos y versátiles con más funcionalidades.
 
 .. admonition:: Recuerda
 
 	Build no guarda los cambios automáticamente. Es importante guardar los formularios que se vayan creando así como las modificaciones que se les haga. Sobre todo antes de abrir nuevos formularios o de cerrar la sesión. No obstante, Build suele dar algunos mensajes para avisar:
-	.. figure:: /media/build1.jpg
+	
+	.. figure:: /media/buil_aviso.jpg
 		:align: center
 
 - Edit: principalmente tiene el menú de “Manage Translations” que te permite añadir nuevos idiomas, es decir, que puedas crear el formulario en varios idiomas. Cuando haces clic sobre esa opción, aparece la siguiente ventana. En el desplegable que dice “Add a new language”, se elige el idioma que quieres añadir:
