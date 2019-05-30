@@ -189,22 +189,31 @@ Por ejemplo, al hacer clic en “Text” (1), aparece la pregunta en el rectáng
 Configuración de propiedades
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A continuación vamos a ver cómo se configuran y cuáles son las propiedades de las preguntas:
+A continuación vamos a ver cómo se configuran y cuáles son las propiedades de las preguntas en el caso de una de tipo texto:
 
-.. figure:: /media/build1.jpg
-   :align: center
-
-- Nombre del dato o variable: es el nombre que se guarda como referencia en la base de datos (BD). No puede tener espacios ni caracteres especiales. Será el nombre de la columna en la BD. Ej. nombre_del_entrevistado. Campo obligatorio.
-- Texto del título: se define la pregunta que se quiere hacer y que se mostrará al usuario en el dispositivo móvil. Si se realiza el formulario en varios idiomas, habrá que incluir la pregunta o el texto en dichos idiomas en sus respectivos campos. Ej. Escriba el nombre del entrevistado. Campo obligatorio.
-- Pista: ayuda adicional o aclaración para entender la pregunta que se muestra al usuario en el dispositivo móvil. Ej. Nombre y apellido. Campo recomendado.
-- Valor por defecto: este texto será la respuesta por defecto a menos que el usuario la modifique. Ej. Juan Valdez. Rara vez utilizado.
-- Solo lectura: el usuario no puede introducir datos, sólo leer lo que dice el texto o pregunta. Rara vez utilizado.
-- Requerido: si se marca esta casilla, el usuario no puede pasar a la siguiente pregunta a menos que la pregunta actual sea respondida. Opcional.
-- Longitud: el usuario no puede pasar a la siguiente pregunta a menos que la respuesta de la pregunta actual tenga una cantidad específica de caracteres:
+- Nombre del dato o variable (1): es el nombre que se guarda como referencia en la base de datos (BD). No puede tener espacios ni caracteres especiales. Será el nombre de la columna en la BD. Ej. nombre_del_entrevistado. Campo obligatorio.
+- Texto del título (2): se define la pregunta que se quiere hacer y que se mostrará al usuario en el dispositivo móvil. Si se realiza el formulario en varios idiomas, habrá que incluir la pregunta o el texto en dichos idiomas en sus respectivos campos. Ej. Escriba el nombre del entrevistado. Campo obligatorio.
+- Pista (3): ayuda adicional o aclaración para entender la pregunta que se muestra al usuario en el dispositivo móvil. Ej. Nombre y apellido. Campo recomendado.
+- Valor por defecto (4): este texto será la respuesta por defecto a menos que el usuario la modifique. Ej. Juan Valdez. Rara vez utilizado.
+- Solo lectura (5): el usuario no puede introducir datos, sólo leer lo que dice el texto o pregunta. Rara vez utilizado.
+- Requerido (6): si se marca esta casilla, el usuario no puede pasar a la siguiente pregunta a menos que la pregunta actual sea respondida. Opcional.
+- Longitud (7): el usuario no puede pasar a la siguiente pregunta a menos que la respuesta de la pregunta actual tenga una cantidad específica de caracteres:
 	- Mínimo. La cantidad mínima de caracteres requerida.
 	- Máximo. La cantidad máxima de caracteres aceptada.
 	Ej. Mínimo 5, Máximo 10: la respuesta debe tener entre 6 y 9 caracteres. Si se seleccionan las opciones “incluyente” la respuesta debe tener entre 5 y 10 caracteres. Opcional.
-- Texto inválido: mensaje que se muestra si no se cumple la longitud establecida anteriormente. A veces esta opción no funciona adecuadamente.
+- Texto inválido (8): mensaje que se muestra si no se cumple la longitud establecida anteriormente. A veces esta opción no funciona adecuadamente.
+
+.. figure:: /media/build_properties_area.jpg
+   :align: center
+
+Posteriormente se ofrecen opciones avanzadas:
+
+- Mostrar pregunta si (9): condición que debe cumplirse en una pregunta previa para que ésta se muestre. 
+- Condición (10): se impone una restricción o limitación al dato que se introduce.
+- Cálculo (11): permite realizar un cálculo dentro del propio formulario basado en valores registrados en preguntas previas.
+
+.. figure:: /media/build_properties_area_advanced.jpg
+   :align: center
 
 A continuación se muestra un ejemplo de cómo se muestra una pregunta, en ODK Collect y en el servidor (Aggregate o Google Drive), según la configuración en Build:
 
