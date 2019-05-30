@@ -215,9 +215,9 @@ Posteriormente se ofrecen opciones avanzadas:
 .. figure:: /media/build_properties_area_advanced.jpg
    :align: center
 
-A continuación se muestra un ejemplo de cómo se muestra una pregunta, en ODK Collect y en el servidor (Aggregate o Google Drive), según la configuración en Build:
+A continuación se muestra un ejemplo de cómo se muestra una pregunta en ODK Collect y en el servidor (Aggregate o Google Drive), según la configuración en Build. Observa con detenimiento cómo se refleja la variable (1), el texto del título (2) y la pista (3). 
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_question_example.jpg
    :align: center
 
 Según los tipos de preguntas, hay algunas particularidades:
