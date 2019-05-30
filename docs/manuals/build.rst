@@ -181,9 +181,9 @@ Añadir preguntas a un formulario
 
 Para añadir preguntas a un formulario, únicamente hay que hacer clic sobre el tipo de dato que deseamos tener como respuesta de la pregunta que vamos a formular y configurar.
 
-Ejemplo, al hacer clic en “Text”, aparece la pregunta en el rectángulo del Área Principal y, a la derecha en vertical, el Área de Propiedades para esa pregunta: 
+Por ejemplo, al hacer clic en “Text” (1), aparece la pregunta en el rectángulo del Área Principal (2) y, a la derecha en vertical, el Área de Propiedades (3) para esa pregunta: 
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_add_question.jpg
    :align: center
 
 Configuración de propiedades
