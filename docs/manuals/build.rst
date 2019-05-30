@@ -287,17 +287,17 @@ Para ambos casos:
 
 A continuación se muestra un ejemplo:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_add_option3.jpg
    :align: center
 
 En caso de haber hecho clic en “bulk edit” se vería la siguiente pantalla con los datos incluidos:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_add_option4.jpg
    :align: center
 
 A continuación podemos ver cómo queda reflejado en ODK Collect, Aggregate y Google Sheets.
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_add_option5.jpg
    :align: center
 
 Exportar un formulario
