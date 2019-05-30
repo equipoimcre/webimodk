@@ -270,6 +270,7 @@ Según los tipos de preguntas, hay algunas particularidades:
 	.. figure:: /media/build_add_option.jpg
    		:align: center
 
+
 	- Haciendo clic en “bulk edit” en el Área de Propiedades y rellenar en cada línea las dos columnas para cada una de las opciones que se quiera añadir.
 
 	.. figure:: /media/build_add_option2.jpg
