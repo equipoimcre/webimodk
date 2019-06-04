@@ -399,7 +399,6 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - Género del entrevistado
      - 
      - Sí
-     - 
      - Masculino - Femenino
      - 
    * - Selección múltiple
