@@ -348,90 +348,90 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
    
    	Observa la siguiente tabla y crea el formulario usando Build.
 .. list-table::
-   		:header-rows: 1
-   		:widths: auto
+	:header-rows: 1
+   	:widths: auto
 
-   		* - Tipo de Dato
-     		- Texto
-     		- Número
-		- Fecha
-		- GPS
-		- Multimedia
-		- Selección única
-		- Selección múltiple
-   		* - Nombre del dato 
-     		- nombre
-     		- edad
-		- fecha
-		- gps
-		- foto
-		- genero
-		- necesidades
-   		* - Texto del título
-     		- Nombre del entrevistado
-     		- Edad del entrevistado
-		- ¿Qué día es hoy?
-		- Registra tus coordenadas GPS
-		- Foto del entrevistado
-		- Género del entrevistado
-		- Necesidades urgentes
-   		* - Consejo
-     		- Nombre y apellido
-		- 
-		- 
-		- 
-     		- Toma la foto en formato horizontal
-		- 
-		- Selecciona todas las que apliquen
-   		* - Requerido
-     		- Sí
-		- 
-		- 
-		- 
-		- 
-		- Sí
-		- 
-   		* - Rango mín. 
-		- 
-		- 18
-		- 
-		- 
-		- 
-		- 
-		- 
-   		* - Rango máx. 
-		- 
-		- 99
-		- 
-		- 
-		- 
-		- 
-		- 
-   		* - Opción 1
-		- 
-		- 
-		- 
-		- 
-		- 
-		- Masculino
-		- Agua
-   		* - Opción 2 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- Femenino
-		- Comida
-   		* - Opción 3 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- 
-		- Albergue
-
+   	* - Tipo de Dato
+     	- Texto
+     	- Número
+	- Fecha
+	- GPS
+	- Multimedia
+	- Selección única
+	- Selección múltiple
+   	* - Nombre del dato 
+     	- nombre
+     	- edad
+	- fecha
+	- gps
+	- foto
+	- genero
+	- necesidades
+   	* - Texto del título
+     	- Nombre del entrevistado
+     	- Edad del entrevistado
+	- ¿Qué día es hoy?
+	- Registra tus coordenadas GPS
+	- Foto del entrevistado
+	- Género del entrevistado
+	- Necesidades urgentes
+   	* - Consejo
+     	- Nombre y apellido
+	- 
+	- 
+	- 
+     	- Toma la foto en formato horizontal
+	- 
+	- Selecciona todas las que apliquen
+   	* - Requerido
+     	- Sí
+	- 
+	- 
+	- 
+	- 
+	- Sí
+	- 
+   	* - Rango mín. 
+	- 
+	- 18
+	- 
+	- 
+	- 
+	- 
+	- 
+   	* - Rango máx. 
+	- 
+	- 99
+	- 
+	- 
+	- 
+	- 
+	- 
+   	* - Opción 1
+	- 
+	- 
+	- 
+	- 
+	- 
+	- Masculino
+	- Agua
+   	* - Opción 2 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- Femenino
+	- Comida
+   	* - Opción 3 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- 
+	- Albergue
+	
 Grupos de preguntas
 -------------------
 
