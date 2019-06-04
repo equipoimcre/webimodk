@@ -357,11 +357,8 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - Texto del título
      - Consejo
      - Requerido
-     - Rango mín. 
-     - Rango máx.
-     - Opción 1
-     - Opción 2
-     - Opción 3
+     - Rango mín-máx
+     - Opciones
    * - Texto
      - nombre
      - Nombre del entrevistado
@@ -369,25 +366,16 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - Sí
      - 
      - 
-     - 
-     - 
-     - 
    * - Número
      - edad
      - Edad del entrevistado
      - 
      - 
-     - 18
-     - 99
-     - 
-     - 
+     - 18 - 99
      - 
    * - Fecha
      - fecha
      - ¿Qué día es hoy?
-     - 
-     - 
-     - 
      - 
      - 
      - 
@@ -399,16 +387,10 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - 
      - 
      - 
-     - 
-     - 
-     - 
    * - Multimedia
      - foto
      - Foto del entrevistado
      - Toma la foto en formato horizontal
-     -
-     -
-     -
      -
      -
      -
@@ -418,9 +400,7 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - 
      - Sí
      - 
-     - 
-     - Masculino
-     - Femenino
+     - Masculino - Femenino
      - 
    * - Selección múltiple
      - necesidades
@@ -428,10 +408,7 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - Selecciona todas las que apliquen
      - 
      - 
-     - 
-     - Agua
-     - Comida
-     - Albergue
+     - Agua - Comida - Albergue
 	
 Grupos de preguntas
 -------------------
