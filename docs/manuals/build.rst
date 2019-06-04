@@ -300,27 +300,27 @@ A continuación podemos ver cómo queda reflejado en ODK Collect, Aggregate y Go
 .. figure:: /media/build_add_option5.jpg
    :align: center
 
-Exportar un formulario
-----------------------
+Subir al servidor
+-----------------
 
-Una vez que tenemos el formulario finalizado, hay varias formas para exportar el formulario o subirlo al servidor:
+Una vez que tenemos el formulario finalizado, hay varias formas de subirlo al servidor:
 
 Desde Build 
 ^^^^^^^^^^^
 
-Permite exportar el formulario en blanco que se ha creado, directamente al servidor Aggregate. Para ello, hay que introducir la dirección o URL del servidor, el usuario y la contraseña correspondiente y pulsar “Export”:
+Permite subir el formulario en blanco que se ha creado, directamente al servidor Aggregate. Para ello, hay que introducir la dirección o URL del servidor, el usuario y la contraseña correspondiente y pulsar “Export”:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_upload.jpg
    :align: center
 
 En caso de ser correcta la subida al servidor, aparece la siguiente pantalla o aviso en la parte inferior derecha de la pantalla:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_upload_success.jpg
    :align: center
 
 En caso de haber algún error en el formulario, aparece el siguiente aviso:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_upload_error.jpg
    :align: center
 
 .. admonition:: Presta atención
