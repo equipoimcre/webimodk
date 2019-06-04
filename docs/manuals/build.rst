@@ -129,7 +129,7 @@ Este es el panel con el que nos encontramos al entrar en Build:
 - File: tiene los siguientes submenús:
 
 	- New Form: crear un nuevo formulario.
-    	- Open Form: da la opción de abrir un formulario guardado previamente dentro de la lista de formularios guardados.
+    	- My Forms: da la opción de abrir un formulario guardado previamente dentro de la lista de formularios guardados.
     	- Save: guardar un formulario, es recomendable haberlo nombrado con anterioridad. Si no, te lo guarda sobre el formulario que estés. Por otro lado, es recomendable ir pulsando “Save” cuando se está haciendo un formulario nombrado previamente para no perder los cambios.
     	- Save Form As: permite guardar un formulario con el nombre que se desee.
     	- Save Form to File: permite descargarte el formulario en formato “.odkbuild”. Este archivo te permite poder enviarlo y abrirlo desde otra cuenta Build. Los documentos que se descargan al ordenador desde Build suelen guardarse en la carpeta “Descargas” o “Downloads”.
