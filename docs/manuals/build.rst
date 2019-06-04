@@ -318,9 +318,14 @@ En caso de ser correcta la subida al servidor, aparece la siguiente pantalla o a
 .. figure:: /media/build_upload_success.jpg
    :align: center
 
-En caso de haber algún error en el formulario, aparece el siguiente aviso:
+En caso de haber algún error en los datos de conexión aparece el siguiente aviso:
 
 .. figure:: /media/build_upload_error.jpg
+   :align: center
+
+Si es un error en el diseño del formulario el error es del tipo:
+
+.. figure:: /media/build_upload_error2.jpg
    :align: center
 
 .. admonition:: Presta atención
