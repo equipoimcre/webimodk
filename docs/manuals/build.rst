@@ -330,7 +330,7 @@ Si es un error en el diseño del formulario el error es del tipo:
 
 .. admonition:: Presta atención
 
-	En caso de que haya algún error, ver el último apartado de este documento: “Validar un Formulario”.
+	En caso de que haya algún error de diseño, consulta el último apartado de esta sección: “Validar un Formulario”.
 
 Desde Aggregate
 ^^^^^^^^^^^^^^^
@@ -342,19 +342,96 @@ Para obtener el formulario en este formato, hay que ir al menú “File” de Bu
 Google Drive
 ^^^^^^^^^^^^
 
-También es posible utilizar Google Drive para alojar las diferentes respuestas al formulario en una hoja de cálculo, en formato  Sheets de Google. Este procedimiento, que comienza una vez exportamos el formulario a Excel, será descrito en el siguiente apartado.
+También es posible utilizar Google Drive para alojar las diferentes respuestas al formulario en una hoja de cálculo, en formato Sheets de Google. Este procedimiento, que comienza una vez exportamos el formulario a Excel, será descrito en el siguiente apartado.
 
 .. admonition:: Práctica
+   
+   	Observa la siguiente tabla y crea el formulario usando Build.
 
-	Observa la siguiente tabla y crea el formulario usando Build.
+	.. list-table::
+   		:header-rows: 1
+   		:widths: auto
 
-	.. tabularcolumns:: |p{1cm}|p{7cm}|
-
-	.. csv-table:: Preguntas
-		:file: /media/practicaform.csv
-		:header-rows: 1
-		:class: longtable
-		:widths: 1 1
+   		* - Tipo de Dato
+     		- Texto
+     		- Número
+		- Fecha
+		- GPS
+		- Multimedia
+		- Selección única
+		- Selección múltiple
+   		* - Nombre del dato 
+     		- nombre
+     		- edad
+		- fecha
+		- gps
+		- foto
+		- genero
+		- necesidades
+   		* - Texto del título
+     		- Nombre del entrevistado
+     		- Edad del entrevistado
+		- ¿Qué día es hoy?
+		- Registra tus coordenadas GPS
+		- Foto del entrevistado
+		- Género del entrevistado
+		- Necesidades urgentes
+   		* - Consejo
+     		- Nombre y apellido
+		- 
+		- 
+		- 
+     		- Toma la foto en formato horizontal
+		- 
+		- Selecciona todas las que apliquen
+   		* - Requerido
+     		- Sí
+		- 
+		- 
+		- 
+		- 
+		- Sí
+		- 
+   		* - Rango mín. 
+		- 
+		- 18
+		- 
+		- 
+		- 
+		- 
+		- 
+   		* - Rango máx. 
+		- 
+		- 99
+		- 
+		- 
+		- 
+		- 
+		- 
+   		* - Opción 1
+		- 
+		- 
+		- 
+		- 
+		- 
+		- Masculino
+		- Agua
+   		* - Opción 2 
+		- 
+		- 
+		- 
+		- 
+		- 
+		- Femenino
+		- Comida
+   		* - Opción 3 
+		- 
+		- 
+		- 
+		- 
+		- 
+		- 
+		- Albergue
 
 Grupos de preguntas
 -------------------
