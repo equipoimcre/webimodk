@@ -347,8 +347,7 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
 .. admonition:: Práctica
    
    	Observa la siguiente tabla y crea el formulario usando Build.
-
-	.. list-table::
+.. list-table::
    		:header-rows: 1
    		:widths: auto
 
