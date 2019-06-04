@@ -352,84 +352,84 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
    :widths: auto
 
    * - Tipo de Dato
-     - Texto
-     - Número
-     - Fecha
-     - GPS
-     - Multimedia
-     - Selección única
-     - Selección múltiple
-   * - Nombre del dato 
+     - Nombre del dato
+     - Texto del título
+     - Consejo
+     - Requerido
+     - Rango mín. 
+     - Rango máx.
+     - Opción 1
+     - Opción 2
+     - Opción 3
+   * - Texto
      - nombre
-     - edad
-     - fecha
-     - gps
-     - foto
-     - genero
-     - necesidades
-   * - Texto del título
      - Nombre del entrevistado
-     - Edad del entrevistado
-     - ¿Qué día es hoy?
-     - Registra tus coordenadas GPS
-     - Foto del entrevistado
-     - Género del entrevistado
-     - Necesidades urgentes
-   * - Consejo
      - Nombre y apellido
-     - 
-     - 
-     - 
-     - Toma la foto en formato horizontal
-     - 
-     - Selecciona todas las que apliquen
-   * - Requerido
      - Sí
      - 
      - 
      - 
      - 
-     - Sí
      - 
-   * - Rango mín. 
+   * - Número
+     - edad
+     - Edad del entrevistado
+     - 
      - 
      - 18
-     - 
-     - 
-     - 
-     - 
-     - 
-   * - Rango máx. 
-     - 
      - 99
      - 
      - 
      - 
+   * - Fecha
+     - fecha
+     - ¿Qué día es hoy?
      - 
      - 
-   * - Opción 1
      - 
      - 
      - 
+     - 
+     - 
+   * - GPS
+     - gps
+     - Registra tus coordenadas GPS
+     - 
+     - 
+     - 
+     - 
+     - 
+     - 
+     - 
+   * - Multimedia
+     - foto
+     - Foto del entrevistado
+     - Toma la foto en formato horizontal
+     -
+     -
+     -
+     -
+     -
+     -
+   * - Selección única
+     - genero
+     - Género del entrevistado
+     - 
+     - Sí
      - 
      - 
      - Masculino
-     - Agua
-   * - Opción 2 
-     - 
-     - 
-     - 
-     - 
-     - 
      - Femenino
+     - 
+   * - Selección múltiple
+     - necesidades
+     - Necesidades urgentes
+     - Selecciona todas las que apliquen
+     - 
+     - 
+     - 
+     - Agua
      - Comida
-   * - Opción 3 
-     - 
-     - 
-     - 
-     - 
-     - 
-     - 
      - Albergue
 	
 Grupos de preguntas
