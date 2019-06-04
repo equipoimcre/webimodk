@@ -399,7 +399,7 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - Género del entrevistado
      - 
      - Sí
-     - Masculino - Femenino
+     - Masculino, femenino
      - 
    * - Selección múltiple
      - necesidades
@@ -407,7 +407,7 @@ También es posible utilizar Google Drive para alojar las diferentes respuestas 
      - Selecciona todas las que apliquen
      - 
      - 
-     - Agua - Comida - Albergue
+     - Agua, comida, albergue
 	
 Grupos de preguntas
 -------------------
