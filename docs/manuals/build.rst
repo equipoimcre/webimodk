@@ -345,8 +345,8 @@ Google Drive
 También es posible utilizar Google Drive para alojar las diferentes respuestas al formulario en una hoja de cálculo, en formato Sheets de Google. Este procedimiento, que comienza una vez exportamos el formulario a Excel, será descrito en el siguiente apartado.
 
 .. admonition:: Práctica
-   
-   	Observa la siguiente tabla y crea el formulario usando Build.
+
+	Observa la siguiente tabla y crea el formulario usando Build.
 	
 .. list-table::
    :header-rows: 1
