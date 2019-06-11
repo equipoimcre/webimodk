@@ -430,7 +430,7 @@ A continuación, se arrastran las preguntas que se quieran dentro del recuadro v
 .. figure:: /media/build_question_groups3.JPG
    :align: center
 
-Así es como se ve en ODK Collect y lo que se obtiene en Aggregate:
+Así es como se ve el grupo en ODK Collect (1) y lo que se obtiene en Aggregate (2):
 
 .. figure:: /media/build_question_groups4.jpg
    :align: center
