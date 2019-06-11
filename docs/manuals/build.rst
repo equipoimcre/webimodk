@@ -422,12 +422,12 @@ Aparece la siguiente pantalla y al igual que para las preguntas, hay que dar un 
 .. figure:: /media/build_question_groups1.jpg
    :align: center
   
-A continuación, se arrastran las preguntas que se quieran dentro del recuadro verde para incluirlas preguntas dentro del grupo y se hace clic en “Display On One Screen”:
+A continuación, se arrastran las preguntas que se quieran dentro del recuadro verde para incluirlas preguntas dentro del grupo (1) y se hace clic en “Display On One Screen” (2):
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_question_groups2.jpg
    :align: center
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_question_groups3.jpg
    :align: center
 
 Así es como se ve en ODK Collect y lo que se obtiene en Aggregate y Google Drive:
