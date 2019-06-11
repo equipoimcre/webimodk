@@ -414,20 +414,20 @@ Grupos de preguntas
 
 En Build se pueden agrupar preguntas. Esto significa que se pueden asociar preguntas bajo un mismo nombre. Por ejemplo se puede crear un grupo que se llame “Datos Personales” y englobar ahí todas las preguntas que sean sobre los datos personales que se recogen de un/una beneficiario/a. Además, las preguntas de un grupo, se pueden mostrar en una misma pantalla. Para ello, en Build, hay que pulsar en "Group" en el panel de Tipo de datos:
 
-.. figure:: /media/build_question_groups0.jpg
+.. figure:: /media/build_question_groups0.JPG
    :align: center
 
 Aparece la siguiente pantalla y al igual que para las preguntas, hay que dar un nombre al grupo (1) (si no se pone, no aparece en el formulario y no podemos saber a qué hacen referencia esas preguntas), y un nombre para la base de datos (1). Además, si se quiere que las preguntas aparezcan en la misma pantalla hay que hacer clic en la casilla “Display On One Screen” (2). Si se quiere que el grupo de preguntas se repita tantas veces como se desee hay que hacer clic en “Looped” (2), aunque no se recomienda porque se crean Excels adicionales y su análisis es más complejo.
 
-.. figure:: /media/build_question_groups1.jpg
+.. figure:: /media/build_question_groups1.JPG
    :align: center
   
 A continuación, se arrastran las preguntas que se quieran dentro del recuadro verde para incluirlas preguntas dentro del grupo (1) y se hace clic en “Display On One Screen” (2):
 
-.. figure:: /media/build_question_groups2.jpg
+.. figure:: /media/build_question_groups2.JPG
    :align: center
 
-.. figure:: /media/build_question_groups3.jpg
+.. figure:: /media/build_question_groups3.JPG
    :align: center
 
 Así es como se ve en ODK Collect y lo que se obtiene en Aggregate y Google Drive:
