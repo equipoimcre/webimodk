@@ -435,9 +435,9 @@ Así es como se ve el grupo en ODK Collect (1) y lo que se obtiene en Aggregate 
 .. figure:: /media/build_question_groups4.jpg
    :align: center
 
-Como se puede ver en la imagen de Aggregate anterior, en la base de datos, el nombre de las columnas de las preguntas que estén dentro de un grupo, seguirán la siguiente estructura: “Nombre_del_grupo:nombre_pregunta”. En Google Drive se antepone, además, el nombre del formulario, cada elemento separado por un guión:
+Como se puede ver en la imagen de Aggregate anterior, en la base de datos, el nombre de las columnas de las preguntas que estén dentro de un grupo, seguirán la siguiente estructura: “Nombre_del_grupo:nombre_pregunta”. Como puede verse en la imagen inferior, en Google Drive se antepone, además, el nombre del formulario, cada elemento separado por un guión:
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_question_groups5.jpg
    :align: center
 
 .. admonition:: Práctica
