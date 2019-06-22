@@ -475,9 +475,9 @@ En caso de no tratarse de ninguna de estas opciones, se puede utilizar el progra
 
 La siguiente pantalla mostrará errores si los hubiese o nos dirá que el formulario es válido: 
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_validate_results.jpg
    :align: center
 
 .. admonition:: Resumen y próximo pasos
 
-	En este apartado hemos explicado cómo hacer uso de Build para la creación y exportación de formularios ODK así como el procedimiento para exportarlos y subirlos al servidor. También hemos visto como validar los formularios utilizando otra aplicación. En los siguientes apartados se abordarán las diferentes modalidades de servidor y la forma en que podemos explotar la información.
+	En este apartado se ha explicado cómo hacer uso de Build para la creación y exportación de formularios ODK así como el procedimiento para exportarlos y subirlos al servidor. También hemos visto cómo validar los formularios utilizando otra aplicación. En los siguientes apartados se abordarán las diferentes modalidades de servidor y la forma en que podemos explotar la información.
