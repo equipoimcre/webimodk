@@ -456,13 +456,14 @@ Generalmente, si un formulario contiene errores es por alguna de las siguientes 
 
 En caso de no tratarse de ninguna de estas opciones, se puede utilizar el programa Validate para comprobar errores. Para ello necesitamos:
 
-- Descargar el programa Validate: https://opendatakit.org/downloads/download-info/odk-validate-2/
-- Tener Java actualizado y eliminar las versiones anteriores, si se tuvieran: https://java.com/es/download/ie_manual.jsp
-- Descargar el formulario en XML.
+- En Build, descarga el formulario en formato XML siguiendo las indicaciones que se han dado anteriormente.
+- Asegúrate de tener Java actualizado en tu PC, así como de eliminar versiones anteriores. Accede a https://java.com/es/download/ie_manual.jsp para verificar tu instalación.
+- Descarga el programa Validate: https://github.com/opendatakit/validate/releases/latest
 
-Se abre el programa y se hace clic en “Choose File…”:
-
-A continuación se selecciona el formulario en formato XML que nos hemos descargado previamente y se hace clic en “Open”:
+.. figure:: /media/build_validate_download.jpg
+   :align: center
+   
+- Abre el programa "Validate" haciendo doble clic sobre el fichero .jar descargado. Haz clic en “Choose File…”. A continuación se selecciona el formulario en formato XML que nos hemos descargado previamente y se hace clic en “Open”:
 
 .. figure:: /media/build1.jpg
    :align: center
