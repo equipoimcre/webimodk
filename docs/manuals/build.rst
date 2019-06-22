@@ -463,9 +463,14 @@ En caso de no tratarse de ninguna de estas opciones, se puede utilizar el progra
 .. figure:: /media/build_validate_download.jpg
    :align: center
    
-- Abre el programa "Validate" haciendo doble clic sobre el fichero .jar descargado. Haz clic en “Choose File…”. A continuación se selecciona el formulario en formato XML que nos hemos descargado previamente y se hace clic en “Open”:
+- Abre el programa "Validate" haciendo doble clic sobre el fichero .jar descargado. Haz clic en “Choose File…”. 
 
-.. figure:: /media/build1.jpg
+.. figure:: /media/build_validate_choosefile.jpg
+   :align: center
+
+- A continuación selecciona el formulario en formato XML que nos hemos descargado previamente y se hace clic en “Abrir”:
+
+.. figure:: /media/build_validate_open.jpg
    :align: center
 
 La siguiente pantalla mostrará errores si los hubiese o nos dirá que el formulario es válido: 
