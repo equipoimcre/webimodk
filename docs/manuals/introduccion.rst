@@ -5,6 +5,8 @@
 .. |AGGREGATE| image:: /media/aggregate.png
    :width: 50 px
 
+.. _introduccion-label:
+
 Introducción
 ============
 
