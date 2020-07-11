@@ -53,12 +53,14 @@ Las opciones de “Cambiar la configuración” son de gran importancia ya que n
 Las opciones de configuración se dividen en cuatro grandes grupos que se enumeran a continuación:
 
 - Servidor - Usuario (1), para configurar el servidor y los parámetros de acceso.
-- Interfaz de usuario (2), donde se ofrecen opciones como el idioma, tamaño del texto y mapas.
-- Manejo de formularios (3), con opciones sobre el envío, rellenado e importación.
-- Metadatos del formulario (4), para indicar el identificador de usuario/a o del dispositivo.
+- Interfaz de usuario (2), donde se pueden personalizar opciones visuales de la aplicación, a destacar el idioma o tamaño del texto, además de otras opciones referentes a la navegación.
+- Mapas (3), que contiene opciones exclusivas a cartografía.
+- Manejo de formularios (4), con opciones sobre el envío, rellenado e importación.
+- Metadatos del formulario (5), para indicar el identificador de usuario/a o del dispositivo.
 
-.. figure:: /media/cambiarconf3.jpg
+.. figure:: /media/cambiarconf3.png
    :align: center
+   :width: 280
 
 A continuación entramos un poco más en detalle en cada una de estas opciones y repasamos sus principales funcionalidades.
 
@@ -77,16 +79,25 @@ Para acceder a este tipo de servidor será necesario confirmar nuestros parámet
 
 .. admonition:: Presta atención
 
-	Los parámetros de acceso al servidor sobre el que se está trabajando deberán ser facilitados por el administrador de sistema o por el responsable del proceso de recolección de datos. En próximas unidades se explicará cómo crear un servidor propio.
+	Los parámetros de acceso al servidor sobre el que se está trabajando deberán ser facilitados por alguien con permisos para administrar el sistema o por la persona responsable del proceso de recolección de datos. En próximas unidades se explicará cómo crear un servidor propio.
 
 Interfaz de usuario
 ^^^^^^^^^^^^^^^^^^^
 
 Permite personalizar aspectos de la interfaz de la aplicación.
-Además del **idioma de la aplicación** (1), no el del formulario, y el tamaño del **texto** (2) destaca la posibilidad de elegir la **forma en que se pasa de una pantalla a otra** en los formularios (3) y la posibilidad de elegir una **imagen o logo** para que se visualice al iniciar la aplicación (4).
+Además del **idioma de la aplicación** (1) --no el del formulario-- y el tamaño del **texto** (2), destaca la posibilidad de elegir la **forma en que se pasa de una pantalla a otra** en los formularios (3), y la posibilidad de elegir una **imagen o logo** para que se visualice al iniciar la aplicación (4).
 
-.. figure:: /media/confinterfezusuario.jpg
+.. figure:: /media/confinterfazusuario.jpg
    :align: center
+
+Mapas
+^^^^^
+
+En esta pantalla se pueden cambiar todas las opciones referentes a cartografía, tales como la fuente que se usará para mostrar los mapas --Google, OpenStreetMap, etc.-- (1); el estilo de mapa, en caso de que la fuente seleccionada disponga de varias opciones (2), y archivos de capas a elegir entre los presentes en el dispositivo, si los hubiera (3).
+
+.. figure:: /media/mapas.png
+   :align: center
+   :width: 280
 
 Manejo de formularios
 ^^^^^^^^^^^^^^^^^^^^^
