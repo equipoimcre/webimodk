@@ -21,7 +21,7 @@ Además, Collect permite utilizar las potencialidades de los *smartphones* para 
 Menú principal
 --------------
 
-Este es el menú principal una vez accedemos a la aplicación.
+Esta es la primera pantalla que vemos cuando accedemos a la aplicación.
 Ocupando la mayor parte de la pantalla, mediante grandes botones rectangulares, están **accesibles los formularios**, según el estado en que se encuentren.
 Las opciones son las siguientes:
 
@@ -32,14 +32,16 @@ Las opciones son las siguientes:
 - Acceder al servidor y **descargar** al dispositivo aquellos **formularios** en blanco que se elijan (5).
 - **Borrar** tanto formularios en blanco que hayamos descargado del servidor, como formularios que hayamos rellenado (6).
 
-.. figure:: /media/menuprincipal.jpg
+.. figure:: /media/menuprincipal.png
    :align: center
+   :width: 280
 
 Arriba a la derecha podemos acceder a **“Ajustes”**, a través de un símbolo formado por tres puntos alineados verticalmente.
 Al pulsar sobre este icono (1) se abre un desplegable en el que, aparte del “Acerca de” que nos da acceso a recursos adicionales, tenemos dos elementos muy utilizados: “Cambiar la configuración” (2) y “Opciones de administrador”.
 
-.. figure:: /media/cambiarconf.jpg
+.. figure:: /media/cambiarconf.png
    :align: center
+   :width: 600
 
 Si en la pantalla principal entramos a “Llenar un nuevo formulario”, también tenemos el menú “Ajustes”. En caso de que el formulario esté diseñado en varios idiomas, nos dará la opción de “Cambiar el Idioma” y, como en el menú de “Ajustes” anterior, tendremos acceso a “Cambiar la configuración”:
 
