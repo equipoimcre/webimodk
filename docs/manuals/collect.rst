@@ -140,35 +140,39 @@ De esta forma, nos puede interesar o no **tener habilitados más o menos menús 
 La pantalla de *Opciones de administrador* muestra las siguientes opciones: 
 
 - Configuración de la aplicación (1).
-- Establecer una contraseña para acceder a este menú de administrador (2).
+- Establecer una contraseña para limitar el acceso a este menú de administrador (2).
 - Importar / exportar configuración mediante código QR (3).
 - Opciones de la pantalla de inicio (4).
 - Configuración de usuario (5).
 - Configuración de rellenado de formularios (6).
 
-.. figure:: /media/opcionesadministrador.jpg
+.. figure:: /media/opcionesadministrador.png
    :align: center
+   :width: 280
 
 De entre las anteriores, las opciones más destacadas son las siguientes: 
 
 - Crear una **contraseña de administrador**, para la configuración de los dispositivos y que nadie más pueda modificar la configuración una vez realizada.
 
-.. figure:: /media/opcionesadmin_password.jpg
+.. figure:: /media/opcionesadmin_password.png
    :align: center
+   :width: 280
 
 .. admonition:: Práctica
 
 	Entra en esta opción e introduce una contraseña que puedas recordar fácilmente. Luego, regresa a la pantalla principal y accede de nuevo a :guilabel:`Opciones de administrador`. Deberá solicitarte la contraseña. Para deshabilitar esta opción, selecciona de nuevo :guilabel:`Contraseña de administrador` y déjala en blanco.
 
-- La posibilidad de crear o leer un **código QR** que permita exportar o importar la configuración de un dispositivo a otro. El código QR generado permite su lectura desde otro dispositivo a través de nuestra cámara de fotos, utilizando la opción :guilabel:`Escanear código de otro dispositivo`.
+- La posibilidad de crear o leer un **código QR** que permita exportar o importar la configuración de un dispositivo a otro. El código QR generado permite su lectura desde otro dispositivo a través de nuestra cámara de fotos, utilizando la opción :guilabel:`Escanear`.
 
-.. figure:: /media/opcionesadmin_codigoqr.jpg
+.. figure:: /media/opcionesadmin_codigoqr.png
    :align: center
+   :width: 280
 
 - Las opciones que pueden verse en el **menú principal de ajustes** son las que se muestran en la siguiente imagen.
 
-.. figure:: /media/opcionesprincipal.jpg
+.. figure:: /media/opcionesprincipal.png
    :align: center
+   :width: 280
 
 .. admonition:: Práctica
 
@@ -176,14 +180,15 @@ De entre las anteriores, las opciones más destacadas son las siguientes:
 
 - Las posibilidades de personalizar las opciones a las que los/las usuarios/as podrán acceder son innumerables, abarcando prácticamente todas las existentes en la aplicación. A continuación se muestra la lista de todas ellas tal como aparecen en el apartado :guilabel:`Ajustes de usuario`.
 
-.. figure:: /media/opcionesusuario.jpg
+.. figure:: /media/opcionesusuario.png
    :align: center
+   :width: 600
 
 .. admonition:: Práctica
 
 	Desmarca alguna de las :guilabel:`Opciones de usuario` anteriores y observa que han desaparecido cuando vuelves a su apartado correspondiente.
  
-- Las opciones que puede disponibles al rellenar formularios pueden configurarse en la siguiente pantalla. Destaca el acceso a :guilabel:`Cambiar la configuración` (1) y a :guilabel:`Cambiar el idioma` (2) entre los disponibles para el formulario.
+- Las opciones disponibles al rellenar formularios pueden configurarse en la siguiente pantalla. Cabe destacar el acceso a :guilabel:`Cambiar la configuración` (1) y a :guilabel:`Cambiar el idioma` (2) de entre los disponibles para el formulario.
 
 .. figure:: /media/opcionesentryform.jpg
    :align: center
