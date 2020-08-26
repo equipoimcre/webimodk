@@ -4,15 +4,97 @@ Integración con Google Drive
 Presentación y objetivos
 ------------------------
 
-La aplicación ODK Collect ofrece varias opciones para el destino de los datos que hayas recogido sobre el terreno.
+La aplicación ODK Collect ofrece varias opciones para el destino de los datos una vez se han recogido.
 La forma habitual es utilizar ODK Aggregate, ya sea alojado en Google App Engine, o en tu propio servidor.
-La opción que se presenta en esta unidad es más sencilla y consiste en conectar a Google Drive para permitir que ODK Collect acceda a formularios en tu cuenta de Drive y envíe datos recogidos en un dispositivo Android directamente a un documento de Hojas de Cálculo de Google.
+La opción que se presenta en esta unidad es más sencilla y consiste, en primer lugar, en conectar con Google Drive para permitir que ODK Collect tome formularios de tu cuenta de Drive, para finalmente enviar los datos recogidos en los formularios directamente a un documento de Hojas de cálculo de Google.
 
 Conocimientos previos y recursos
 --------------------------------
 
-Esta unidad requiere haber completado las unidades anteriores, es decir, conocer de forma básica qué es Open Data Kit, cómo funciona la aplicación Collect y cómo se diseñan los formularios con Build.
+Esta unidad requiere haber completado las unidades anteriores, es decir, conocer de forma básica qué es Open Data Kit, cómo funciona la aplicación ODK Collect y cómo se diseñan los formularios con Build.
 Asimismo es necesario tener una cuenta de Google y configurarla en un dispositivo Android 1.6 o superior.
+
+.. admonition:: Nota
+
+	Puedes crear gratuitamente una cuenta de Google en https://accounts.google.com/signup
 
 La fuente original para la elaboración de estos contenidos es `ODK Collect and Google Drive Integration to Store and Manage Your Data <https://www.google.com/earth/outreach/learn/odk-collect-and-google-drive-integration-to-store-and-manage-your-data/>`__.
 
+1. Subir un formulario a Google Drive
+-------------------------------------
+
+En la unidad anterior aprendimos a generar formularios utilizando ODK Build.
+Posteriormente debes exportarlo a formato Microsoft Excel (opción :guilabel:`Export to XLSForm` en el menú :guilabel:`File`):
+
+.. figure:: /media/drive_build1.png
+   :align: center
+
+Si utilizas la versión web de Build el fichero se alojará probablemente en la carpeta "Descargas".
+Si utilizas la opción *offline* podrás elegir con precisión dónde almacenarlo.
+
+.. admonition:: Recuerda
+
+	Otra forma de crear formularios es directamente desde Excel utilizando XLSForm. Lo veremos en próximas unidades.
+
+Una vez tenemos el formulario en formato *xlsx* debemos subirlo a Google Drive con pequeños retoques para su detección y uso por las herramientas ODK.
+Accede a https://drive.google.com/ e introduce tu dirección de correo electrónico de GMail y contraseña.
+
+.. figure:: /media/google_drive1.png
+   :align: center
+
+En Google Drive haz clic en :guilabel:`Nuevo` y crea una carpeta denominada "odk" en la que irás introduciendo toda la información relacionada con tu proyecto.
+
+.. figure:: /media/google_drive2.png
+   :align: center
+
+Ahora vamos a añadir el fichero en formato xlsx.
+Accede a la carpeta que acabas de crear en Google Drive y haz clic otra vez en :guilabel:`Nuevo`.
+
+.. figure:: /media/google_drive3.png
+   :align: center
+
+Selecciona :guilabel:`Subir archivo`, busca la ruta donde almacenaste el fichero xlsx y pulsa :guilabel:`Abrir`.
+
+
+.. figure:: /media/google_drive4.png
+   :align: center
+
+Haz doble clic sobre el fichero y ábrelo usando la aplicación Google Sheets.
+Una vez abierto, haz una copia del fichero renombrándolo (:guilabel:`Crear una copia` en el menú :guilabel:`Archivo`).
+
+.. figure:: /media/google_drive5.png
+   :align: center
+
+Asegúrate de que el nombre del fichero no contiene espacios y está formado sólo por caracteres alfanuméricos o guiones.
+Un ejemplo de nombre válido es "odk-form".
+
+.. figure:: /media/google_drive6.png
+   :align: center
+
+Añade una pestaña nueva a la hoja de cálculo y cámbiale el nombre (haciendo doble clic sobre el nombre, por ejemplo, "resultados"), pero no rellenes nada más.
+Recuerda que sólo se pueden utilizar caracteres alfanuméricos y guiones al cambiar el nombre de la pestaña.
+La pestaña "resultados" debe estar situada a la izquierda de todas las demás.
+Haz clic y arrástrala si es necesario.
+
+.. figure:: /media/google_drive7.png
+   :align: center
+
+.. figure:: /media/google_drive8.png
+   :align: center
+
+A continuación, copia la URL de la nueva hoja vacía, es decir, la que te aparece en el navegador al visualizarla.
+
+.. figure:: /media/google_drive9.png
+   :align: center
+
+Ve a la pestaña :guilabel:`settings` y pégala bajo la celda *submission_url*. Si no tienes esa celda en tu formulario escribe *submission_url* a continuación de los otros que ya estén de forma que quede como se ve a continuación:
+
+.. figure:: /media/google_drive10.png
+   :align: center
+
+De esta forma definimos la ruta de destino para que los datos que envíen los/las usuarios/as del formulario vayan a la hoja de resultados.
+Como los cambios en Google Sheets son automáticos, puedes cerrar el fichero conservando los cambios realizados.
+
+.. admonition:: Recomendación
+
+	Para almacenar este fichero y otros que iremos creando, crea una carpeta en Google Drive con un nombre fácilmente reconocible; por ejemplo, *odk*.
