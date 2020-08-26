@@ -98,3 +98,55 @@ Como los cambios en Google Sheets son automáticos, puedes cerrar el fichero con
 .. admonition:: Recomendación
 
 	Para almacenar este fichero y otros que iremos creando, crea una carpeta en Google Drive con un nombre fácilmente reconocible; por ejemplo, *odk*.
+
+2. Conceder permisos para el acceso de otros/as usuarios/as
+-----------------------------------------------------------
+
+Para que otros/as usuarios/as puedan descargar y rellenar el formulario con ODK Collect, debes darles permiso para acceder a la hoja de cálculo de Google Drive.
+Puedes añadirles individualmente o conceder acceso a cualquiera mediante un enlace.
+A continuación te indicamos cómo hacerlo.
+
+Cómo dar permisos individualmente
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Para conceder accesos individuales, haz clic con el botón secundario del ratón sobre el fichero. Selecciona :guilabel:`Compartir`
+
+.. figure:: /media/google_drive11.png
+   :align: center
+
+Añade los correos electrónicos de los/las usuarios/as (por ejemplo, de quienes se encargarán de recoger datos sobre el terreno) y asegúrate de que tengan permiso de edición (lápiz a la derecha del cuadro de texto).
+
+.. figure:: /media/google_drive12.png
+   :align: center
+
+Una vez compartido aparecerá el siguiente icono al lado del nombre de fichero en la vista de lista de Google Drive:
+
+.. figure:: /media/google_drive13.png
+   :align: center
+
+Cómo dar permisos mediante un enlace
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Puedes activar la función de compartir mediante enlace para que cualquiera que reciba el enlace pueda editar la hoja.
+Esto resulta útil cuando quieres que los/las usuarios/as envíen datos de forma anónima a tu proyecto de ODK (p. ej., en un proyecto de *crowdsourcing*).
+Para que cualquiera pueda enviar datos, haz clic en :guilabel:`Compartir` y, a continuación, en :guilabel:`Obtener enlace para compartir`. 
+
+.. figure:: /media/google_drive14.png
+   :align: center
+
+Al obtener el enlace para compartir la opción por defecto es de lectura (puede ver el documento, pero no editarlo).
+Haz clic sobre :guilabel:`Permisos` para modificarlo.
+
+.. figure:: /media/google_drive15.png
+   :align: center
+
+Accede al desplegable con los tipos de permisos y hac clic sobre :guilabel:`Cualquier usuario con el enlace puede editar`.
+Para finalizar haz clic sobre :guilabel:`Listo`.
+
+
+.. figure:: /media/google_drive16.png
+   :align: center
+
+.. admonition:: Recomendación
+
+	Si quieres controlar quién puede editar el formulario o las respuestas, puedes proteger la pestaña de respuestas y elegir quién tiene derechos de edición.
