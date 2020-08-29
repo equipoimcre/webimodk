@@ -189,7 +189,7 @@ En este caso, el permiso facilitado puede ser sólo de lectura.
 .. figure:: /media/google_drive18.png
    :align: center
 
-.. admonition:: Presta atención
+.. admonition:: Atención
 
    Algunas funciones de ODK no son compatibles con Hojas de Cálculo de Google. Ten en cuenta lo siguiente a la hora de diseñar tu formulario:
 
@@ -226,6 +226,38 @@ Ya puedes volver al menú principal de tu aplicación Collect.
 
    El dispositivo Android debe estar conectado a una cuenta de Google que pueda editar el formulario que has creado (se le hayan concedido permisos siguiendo los pasos indicados en :ref:`conceder-permisos`.
 
-.. admonition::  Recuerda
+.. admonition:: Recuerda
 
    Asegúrate de tener actualizada tu aplicación ODK Collect con la última versión disponible en la Play Store de Google.
+
+5. Recoger datos con ODK Collect
+--------------------------------
+
+Haz clic en :guilabel:`Obtener Formulario en Blanco` y selecciona :guilabel:`Mi drive` en caso de que el formulario esté en tu propia cuenta de Google Drive o :guilabel:`Compartido conmigo` en caso de que alguien más lo haya compartido contigo.
+ODK Collect buscará archivos XML y los mostrará debajo de la lista de carpetas.
+
+.. image:: /media/google_collect5.png
+    :width: 49 %
+.. image:: /media/google_collect6.png
+    :width: 49 %
+
+Utiliza el buscador (lupa arriba a la derecha) para localizar el formulario, introduciendo su nombre en el cuadro de búsqueda.
+Haz clic en la casilla de verificación que aparece a la derecha y selecciona :guilabel:`Descarga Seleccionada`.
+Cuando se haya completado la descarga, se mostrará una ventana de confirmación.
+
+.. figure:: /media/google_collect7.png
+   :align: center
+
+.. admonition:: Recomendación
+   
+   Guarda todos tus archivos XML en una misma carpeta de Google Drive. De esta forma podrás encontrarlos más fácilmente.
+
+Ya puedes cumplimentar y enviar el formulario tal como hemos visto en la sección de :ref:`inicio-collect`.
+
+.. admonition:: Atención
+
+   Cuando envíes datos por primera vez a tu nueva hoja de cálculo, el dispositivo solicitará permiso para enviarlos a Google Drive. Haz clic en :guilabel:`Permitir` para enviar los datos a la hoja.
+
+.. admonition:: Atención
+
+   Si detectas un error al enviar datos a Hojas de Cálculo de Google, prueba a eliminar otros formularios que ya no utilices. Para ello, accede al menú principal y selecciona :guilabel:`Eliminar formulario guardado`.
