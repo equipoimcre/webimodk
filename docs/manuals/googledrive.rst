@@ -197,3 +197,35 @@ En este caso, el permiso facilitado puede ser sólo de lectura.
    - Está permitido usar hasta 254 variables (o preguntas del formulario que se muestran en ODK Collect).
    - Se admiten fotos, pero no audio ni vídeo. Las fotos se almacenarán en tu archivo de álbumes de Google Fotos de forma oculta y se vincularán desde Hojas de Cálculo de Google.
    - Las demás funciones, incluida la ubicación GPS, son compatibles.
+
+4. Configuración de ODK Collect
+-------------------------------
+
+Abre la aplicación ODK Collect en tu dispositivo móvil y accede a la opción :guilabel:`Cambiar la configuración` accesible a través del menú (los tres puntos situados en la esquina superior derecha.
+
+.. figure:: /media/google_collect1.png
+   :align: center
+
+En :guilabel:`Servidor-usuario`, haz clic en :guilabel:`Tipo` para cambiar la ruta de destino de los envíos de datos desde ODK Collect.
+Selecciona el protocolo :guilabel:`Google Drive, Google Sheets`.
+
+.. figure:: /media/google_collect2.png
+   :align: center
+
+A continuación, haz clic en :guilabel:`Cuenta de Google` y selecciona la que quieras utilizar con ODK Collect.
+
+.. image:: /media/google_collect3.png
+    :width: 49 %
+.. image:: /media/google_collect4.png
+    :width: 49 %
+
+En esta cuenta se almacenarán tus formularios en Google Drive, así como la hoja de cálculo con todos tus datos y los datos enviados por otros usuarios de ODK.
+Ya puedes volver al menú principal de tu aplicación Collect.
+
+.. admonition:: Atención
+
+   El dispositivo Android debe estar conectado a una cuenta de Google que pueda editar el formulario que has creado (se le hayan concedido permisos siguiendo los pasos indicados en :ref:`conceder-permisos`.
+
+.. admonition::  Recuerda
+
+   Asegúrate de tener actualizada tu aplicación ODK Collect con la última versión disponible en la Play Store de Google.
