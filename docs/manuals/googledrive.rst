@@ -1,3 +1,5 @@
+.. _inicio-google-drive:
+
 Integración con Google Drive
 ============================
 
@@ -20,10 +22,12 @@ Asimismo es necesario tener una cuenta de Google y configurarla en un dispositiv
 
 La fuente original para la elaboración de estos contenidos es `ODK Collect and Google Drive Integration to Store and Manage Your Data <https://www.google.com/earth/outreach/learn/odk-collect-and-google-drive-integration-to-store-and-manage-your-data/>`__.
 
+.. _subir-google-drive:
+
 1. Subir un formulario a Google Drive
 -------------------------------------
 
-En la unidad anterior aprendimos a generar formularios utilizando ODK Build.
+En la sección de :ref:`inicio-odk-build` vimos cómo generar un formulario.
 Posteriormente debes exportarlo a formato Microsoft Excel (opción :guilabel:`Export to XLSForm` en el menú :guilabel:`File`):
 
 .. figure:: /media/drive_build1.png
@@ -47,19 +51,19 @@ En Google Drive haz clic en :guilabel:`Nuevo` y crea una carpeta denominada "odk
 .. figure:: /media/google_drive2.png
    :align: center
 
-Ahora vamos a añadir el fichero en formato xlsx.
+Ahora vamos a añadir el fichero en formato *xlsx*.
 Accede a la carpeta que acabas de crear en Google Drive y haz clic otra vez en :guilabel:`Nuevo`.
 
 .. figure:: /media/google_drive3.png
    :align: center
 
-Selecciona :guilabel:`Subir archivo`, busca la ruta donde almacenaste el fichero xlsx y pulsa :guilabel:`Abrir`.
+Selecciona :guilabel:`Subir archivo`, busca la ruta donde almacenaste el fichero *xlsx* y pulsa :guilabel:`Abrir`.
 
 
 .. figure:: /media/google_drive4.png
    :align: center
 
-Haz doble clic sobre el fichero y ábrelo usando la aplicación Google Sheets.
+Haz doble clic sobre el fichero y ábrelo usando la aplicación Hojas de Cálculo de Google.
 Una vez abierto, haz una copia del fichero renombrándolo (:guilabel:`Crear una copia` en el menú :guilabel:`Archivo`).
 
 .. figure:: /media/google_drive5.png
@@ -93,11 +97,13 @@ Ve a la pestaña :guilabel:`settings` y pégala bajo la celda *submission_url*. 
    :align: center
 
 De esta forma definimos la ruta de destino para que los datos que envíen los/las usuarios/as del formulario vayan a la hoja de resultados.
-Como los cambios en Google Sheets son automáticos, puedes cerrar el fichero conservando los cambios realizados.
+Como los cambios en Hojas de Cálculo de Google son automáticos, puedes cerrar el fichero conservando los cambios realizados.
 
 .. admonition:: Recomendación
 
 	Para almacenar este fichero y otros que iremos creando, crea una carpeta en Google Drive con un nombre fácilmente reconocible; por ejemplo, *odk*.
+
+.. _conceder-permisos:
 
 2. Conceder permisos para el acceso de otros/as usuarios/as
 -----------------------------------------------------------
@@ -143,10 +149,51 @@ Haz clic sobre :guilabel:`Permisos` para modificarlo.
 Accede al desplegable con los tipos de permisos y hac clic sobre :guilabel:`Cualquier usuario con el enlace puede editar`.
 Para finalizar haz clic sobre :guilabel:`Listo`.
 
-
 .. figure:: /media/google_drive16.png
    :align: center
 
 .. admonition:: Recomendación
 
 	Si quieres controlar quién puede editar el formulario o las respuestas, puedes proteger la pestaña de respuestas y elegir quién tiene derechos de edición.
+
+3. Transformar el fichero a formato xml
+---------------------------------------
+
+A continuación vamos a convertir el formulario a un archivo XML para que ODK Collect pueda mostrarlo en los dispositivos móviles.
+Para ello debemos convertir nuestra hoja de cálculo a formato *xlsx*.
+
+Abre el fichero en Hojas de Cálculo de Google y en el menú :guilabel:`Archivo` selecciona :guilabel:`Descargar como Microsoft Excel (.xlsx)`.
+
+.. figure:: /media/google_drive17.png
+   :align: center
+
+El fichero quedará alojado por defecto en la carpeta :guilabel:`Descargas` (para sistemas Windows).
+
+Una vez tenemos el fichero *xlsx*, para convertirlo a xml utilizaremos el conversor de ODK a XLSForm online en la url http://opendatakit.org/xiframe/
+
+.. figure:: /media/drive_build2.png
+   :align: center
+
+Selecciona el archivo y haz clic en :guilabel:`Submit`.
+Aparecerá el botón para descargar el formulario en xml.
+Haz clic sobre el botón y el fichero se descargará.
+
+.. admonition:: Recuerda
+
+   También puedes convertir tu fichero *xlsx* en XML utilizando la herramienta XLSForm Offline, descargable en la url https://gum.co/xlsform-offline. Veremos el uso de esta herramienta en próximas unidades.
+
+Finalmente, igual que hiciste con el fichero *xlsx* en el apartado :ref:`subir-google-drive`, sube el archivo XML a tu cuenta de Google Drive.
+Seguidamente puedes compartirlo, tal como vimos en el apartado :ref:`conceder-permisos`, con quienes vayan a recoger datos y necesiten descargar el formulario en su dispositivo Android.
+En este caso, el permiso facilitado puede ser sólo de lectura.
+
+.. figure:: /media/google_drive18.png
+   :align: center
+
+.. admonition:: Presta atención
+
+   Algunas funciones de ODK no son compatibles con Hojas de Cálculo de Google. Ten en cuenta lo siguiente a la hora de diseñar tu formulario:
+
+   - Puedes agrupar preguntas, pero no se permiten repeticiones.
+   - Está permitido usar hasta 254 variables (o preguntas del formulario que se muestran en ODK Collect).
+   - Se admiten fotos, pero no audio ni vídeo. Las fotos se almacenarán en tu archivo de álbumes de Google Fotos de forma oculta y se vincularán desde Hojas de Cálculo de Google.
+   - Las demás funciones, incluida la ubicación GPS, son compatibles.
