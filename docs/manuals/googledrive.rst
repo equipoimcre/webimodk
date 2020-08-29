@@ -261,3 +261,29 @@ Ya puedes cumplimentar y enviar el formulario tal como hemos visto en la secció
 .. admonition:: Atención
 
    Si detectas un error al enviar datos a Hojas de Cálculo de Google, prueba a eliminar otros formularios que ya no utilices. Para ello, accede al menú principal y selecciona :guilabel:`Eliminar formulario guardado`.
+
+6. Consultar los datos
+----------------------
+
+Ya puedes acceder a tu hoja de cálculo de Google.
+En la hoja *resultados* que creamos anteriormente podrás ver las instancias según vayan siendo enviadas desde los dispositivos.
+
+.. figure:: /media/google_drive19.png
+   :align: center
+
+Puedes descargar los datos en un archivo CSV o importarlos directamente desde Hojas de Cálculo de Google.
+
+Las fotos incorporadas al formulario son enviadas a un álbum oculto del archivo de álbumes de Google Fotos asociado a la cuenta de Google del usuario.
+Solo quienes tengan el enlace podrán verlo.
+Las fotos se almacenan en un álbum con el nombre del formulario correspondiente.
+
+Para visualizar los envíos de datos en un mapa, puedes utilizar Google My Maps.
+Los mapas que crees también se almacenarán en tu cuenta de Google Drive.
+
+Resumen y próximo pasos
+^^^^^^^^^^^^^^^^^^^^^^^
+
+En esta unidad hemos explicado cómo utilizar Google Drive de un modo similar al servidor ODK Aggregate, de forma que podamos compartir nuestros formularios y recibir los resultados recopilados a través de los dispositivos móviles.
+
+Una vez cerrado el ciclo de recolección de información con dispositivos móviles, hemos adquirido capacidades básicas para el diseño y difusión de formularios, así como para cumplimentarlos y hacer los resultados accesibles en un servidor propio o en Google Drive.
+Es el momento de profundizar en otros elementos más complejos y potentes de Open Data Kit, como pueden ser el diseño de formularios con XLSForm o el uso de otros tipos de servidor de datos.
