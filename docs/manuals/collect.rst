@@ -1,3 +1,5 @@
+.. _inicio-collect:
+
 ODK Collect
 ===========
 

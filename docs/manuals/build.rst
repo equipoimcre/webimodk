@@ -1,3 +1,5 @@
+.. _inicio-odk-build:
+
 ODK Build
 =========
 
@@ -13,7 +15,7 @@ ODK Build
 Build es una herramienta que permite la creación de formularios de Open Data Kit.
 Mediante una sencilla interfaz pueden diseñarse las diferentes preguntas y posibles respuestas así como añadir diferentes tipos de material audiovisual.
 
-Originalmente estaba disponible como una herramienta en línea accesible a través de la url: https://build.getodk.org/ con las ventajas de su accesibilidad y disponibilidad de la información en cualquier lugar del mundo.
+Originalmente estaba disponible como una herramienta en línea accesible a través de la url https://build.getodk.org/, con las ventajas de su accesibilidad y disponibilidad de la información en cualquier lugar del mundo.
 Más recientemente se ha creado una versión offline descargable desde el mismo sitio web, que permite superar las limitaciones derivadas de la dificultad de acceso a Internet en determinados lugares y circunstancias.
 
 El objetivo de este apartado es familiarizarnos con sus funciones y características principales de forma que podamos generar nuestro primer formulario.
@@ -124,7 +126,7 @@ Este es el panel con el que nos encontramos al entrar en Build:
 .. figure:: /media/build_panel.jpg
    :align: center
 
-**Nombre del formulario**: permite renombrar un formulario. Si no se le da un nombre se guardará por defecto como :guilabel:`Untitled Form` y finalmente te puedes encontrar con varios con el mismo nombre. Para ello, hay que hacer clic en :guilabel:`rename` y una vez escrito el nuevo nombre, hacer clic en :guilabel:`done`:
+**Nombre del formulario**: permite renombrar un formulario. Si no se le da un nombre se guardará por defecto como :guilabel:`Untitled Form` y finalmente te puedes encontrar con varios con el mismo nombre. Para ello hay que hacer clic en :guilabel:`rename` y una vez escrito el nuevo nombre, hacer clic en :guilabel:`done`:
 
 .. figure:: /media/build_nombre.jpg
    :align: center
@@ -286,7 +288,7 @@ Según los tipos de preguntas, hay algunas particularidades:
 
 Para ambos casos:
 
-- En el o los idiomas que se hayan elegido; :guilabel:`English` y/o :guilabel:`Spanish`, etc., se pone el texto de la opción como se quiere que aparezca en el formulario al leer la pregunta.
+- En el idioma(s) que hayas elegido; :guilabel:`English` y/o :guilabel:`Spanish`, etc., se pone el texto de la opción como se quiere que aparezca en el formulario al leer la pregunta.
 - El campo :guilabel:`Underlying Value` hace referencia a cómo queremos que se guarde esa opción en la base de datos de Aggregate. El texto que se introduzca no puede tener ni espacios ni caracteres especiales.
 
 .. admonition:: Presta atención
@@ -317,7 +319,7 @@ Desde Build
 ^^^^^^^^^^^
 
 Permite subir el formulario en blanco que se ha creado, directamente al servidor Aggregate.
-Para ello, hay que introducir la dirección o URL del servidor, el usuario y la contraseña correspondiente, y pulsar :guilabel:`Export`:
+Para ello hay que introducir la dirección o URL del servidor, el usuario y la contraseña correspondiente, y pulsar :guilabel:`Export`:
 
 .. figure:: /media/build_upload.jpg
    :align: center
@@ -332,7 +334,7 @@ En caso de haber algún error en los datos de conexión aparece el siguiente avi
 .. figure:: /media/build_upload_error.jpg
    :align: center
 
-Si es un error en el diseño del formulario el error es del tipo:
+Si es un error en el diseño del formulario, el error es del tipo:
 
 .. figure:: /media/build_upload_error2.jpg
    :align: center
@@ -347,13 +349,13 @@ Desde Aggregate
 Se necesita tener el formulario en blanco en el formato XML.
 
 Para obtener el formulario en este formato, hay que ir al menú :guilabel:`File` de Build y hacer clic en :guilabel:`Export to XML`.
-Esto permite descargar el formulario en formato XML al ordenador (generalmente a la carpeta :guilabel:`Descargas` o :guilabel:`Downloads`).
+Esto permite descargar el formulario en formato XML al ordenador (en sistemas Windows, suelen ir por defecto a la carpeta :guilabel:`Descargas`).
 
 Google Drive
 ^^^^^^^^^^^^
 
 También es posible utilizar Google Drive para alojar las diferentes respuestas al formulario en una hoja de cálculo, en formato Sheets de Google.
-Este procedimiento, que comienza una vez exportamos el formulario a Excel, será descrito en el siguiente apartado.
+Este procedimiento, que comienza una vez exportamos el formulario a Excel, será descrito en el siguiente apartado (:ref:`inicio-google-drive`).
 
 .. admonition:: Práctica
 
